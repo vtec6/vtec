@@ -48,6 +48,61 @@ Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
 Name: Hello App
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
 
+Package: com.Axs.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: baiy（qq：961666883））
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.switchtheme_1.0.0_iphoneos-arm64e.deb
+Size: 52098
+MD5sum: 34a0c227437cb91927c3699a652d5376
+SHA1: ccd0c9c21d0b2c237a906acac71c154d189dbb8e
+SHA256: 1bed6361d04c6eb8239e0892174fb1f550793594a84d34c2b9c54cc8e84be733
+Section: Tweaks
+Description: 这是一款款全新的开关主题，通过模拟太阳升起与落下的动画效果，带来极致流畅且视觉惊艳的替代体验。
+Author: 白衣
+Icon: https://axs66.github.io/repo/icon/switchtheme.png
+Name: 日月开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
+
+Package: com.Axs.switchtheme3
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: baiy
+Installed-Size: 5520
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.switchtheme3_1.0.0_iphoneos-arm64e.deb
+Size: 173652
+MD5sum: 7f23d907dbe8692299f6c4c2c021ca5c
+SHA1: f5cc11feb4ad3a59fd25779f8a5008f994284ddf
+SHA256: 3cadab5f9ef93bacf27cddcee74167a5092e58a299d58ea35171875408d09d1c
+Section: Tweaks
+Description: 这是一款全新的Line-iOS动态开关，搭配Line微信主题绝配，丝滑的动画体验，极致的简约。
+Author: 白衣
+Icon: https://axs66.github.io/repo/icon/switchtheme3.png
+Name: SwitchTheme-Line开关
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
+
+Package: com.baiy.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: baiy（qq：961666883））
+Installed-Size: 336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.baiy.switchtheme_1.0.0_iphoneos-arm64e.deb
+Size: 69000
+MD5sum: 65620f096a0da5c1adfccc0bbafe9aed
+SHA1: dbb0fed0442e406a502f9ad9fa1cf77a00fe0757
+SHA256: 9d8dbb523dcd205cfbe93892948aa7e7c091d145a006aa2cc1f30ca02e557813
+Section: Tweaks
+Description: 这是一款全新的开关主题，用皮卡丘的元素来装饰你的开关，让你的开关变得可爱起来
+Author: 白衣
+Name: SwitchTheme-皮卡丘
+
 Package: com.dao.choicy
 Version: 1.5.3-2
 Architecture: iphoneos-arm64e
@@ -175,6 +230,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/siriplus.png
 Name: SiriPlus
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/siriplus/js.json
 
+Package: com.susu.collection
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: SuSu
+Installed-Size: 520
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.susu.collection_1.0_iphoneos-arm64e.deb
+Size: 72708
+MD5sum: 7a64753da7bffae7f5fe30f86523fc0c
+SHA1: 5d7678d687221ed8f08b95250879da73deffe6eb
+SHA256: 63614573aebfa53f326246362df3d502d5dfd45d4948ce70f1331855c83c8741
+Section: Tweaks
+Description: 自用合集插件
+Author: SuSu
+Name: SuCollection
+
 Package: com.susu.snapper3.pictapro
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -257,6 +329,23 @@ Description: cool
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 系统键盘圆角
+
+Package: com.wkk.liquidglassswitchX
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 556
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.liquidglassswitchX_1.0-2_iphoneos-arm64e.deb
+Size: 72700
+MD5sum: 51ab612dfdf2903e6cf1498a2e7d5de2
+SHA1: 6ec90e279a3bb956a96e8891061d266092bcfc6e
+SHA256: 446359642405560420828225197a145251677a600625fa6bf2860762898fd77c
+Section: Tweaks
+Description: 全局液态玻璃开关样式。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 液态玻璃Switch
 
 Package: com.wkk.ng
 Version: 1.0-1
@@ -431,4 +520,22 @@ Section: Tweaks
 Description: Display much more battery information
 Author: daniel
 Name: Batman
+
+Package: llswitch
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/llswitch_1.0_iphoneos-arm64e.deb
+Size: 21716
+MD5sum: 50422a170bbd2cf2403ed669b69bf074
+SHA1: f50206e684aae5d56746759277adfc01f5dd4d40
+SHA256: e8121bba240356f0635613eed8d773487e936bdf5aa9ca62812550736857c9a1
+Section: Tweaks
+Description: 把开关变成无聊的表情  开关不再卑微！
+Author: Simon
+Depiction: https://finngaida.de/repo/depictions/llswitch
+Name: 笑脸开关
 
