@@ -972,6 +972,27 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: APP内购破解（TrollFools注入）
 
+Package: com.wkk.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 1084
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/com.wkk.onesettings_2.2_iphoneos-arm64e.deb
+Size: 224580
+MD5sum: a6dd97c18d3e6e0306b69e354fceade1
+SHA1: ed429065284efcab0fb1b379dfda9c29ab167d0d
+SHA256: 8b7472f24a7b88b681ff2d8d007f35ddfbdc115c736955228b7d1916703d2181
+Section: Tweaks
+Description: 插件归类
+Tag: cydia::commercial
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
+Name: OneSettings(已汉化)
+Sponsor: wkk
+
 Package: com.wkk.recordanywhere
 Version: 1.1.0
 Architecture: iphoneos-arm64e
