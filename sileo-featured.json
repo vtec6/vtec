@@ -1,0 +1,12 @@
+{
+    "itemSize": "1920,1080",
+    "itemCornerRadius": 16,
+    "banners": [
+        {
+            "url": "https://vtec6.github.io/repo-banner.png",
+            "title": "个人插件源",
+            "subtitle": "无根/隐根插件合集",
+            "tintColor": "#2980b9"
+        }
+    ]
+}
