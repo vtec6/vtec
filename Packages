@@ -5,11 +5,11 @@ Maintainer: 来了老弟
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/apt.llld.systeminfo_2.7.2-3_iphoneos-arm64e.deb
-Size: 274548
-MD5sum: 4b6db03d5b5d2c94f7376f90b337ebec
-SHA1: bfc256d511963791f54a31afb0ba74b07cc7587f
-SHA256: 6e2c522a6d5da6cfc0a3b91f6efb5010a7c646eed343ac65bb465af87403137c
-Section: 系统工具
+Size: 274432
+MD5sum: b8703688727089bafbf007e1e9f910e1
+SHA1: ee95d606ffb8a6eebf2aeff724cca82a8c9ea946
+SHA256: 6eee2e4ac878e0c8c4dc8211a1bde62905abc0110f3a0181127895e73939fa63
+Section: Tweaks
 Description: Display all system information of iOS。显示 iOS 所有系统信息，不用装Legacy arm64e Support_________仅测试，有问题请卸载
 Author: ARX8x 来了老弟
 Name: System Info 系统信息-rootless
@@ -286,11 +286,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable, xyz.cypwn.carbridge13, com.leftyfl1p.carbridge13
 Filename: ./debs/com.dao.carbridge13_2.0.14_iphoneos-arm64e.deb
-Size: 431252
-MD5sum: c1430d973ea320014d5aaea9efa0ac12
-SHA1: 3cf086ac0ae6767fa9764254e2b6bbc4b732f552
-SHA256: 3eca9ea63626d96ff21b0ab53f454096d1da1b7bfbac8c03a518c54358b82d78
-Section: 控制中心
+Size: 2791266
+MD5sum: 9a609c5484da42333b7335cb8ff9a62c
+SHA1: 9bb910b85872040aa08316e65f8a149fa29c6498
+SHA256: da6405810b50b6818898fc6dfe36881581f05b5ac929624a23c5d8e04ef7eef2
+Section: Tweaks
 Description: 在 CarPlay 中打开任何应用程序！
 Author: leftyfl1p <carbridge@havoc.app>
 Name: CarBridge(RootHide)
@@ -303,11 +303,11 @@ Installed-Size: 1056
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Conflicts: com.opa334.choicy
 Filename: ./debs/com.dao.choicy_1.5.3-2_iphoneos-arm64e.deb
-Size: 343298
-MD5sum: 152befe0e6d98d786fbd6be52c0bd86d
-SHA1: e9709678a9a8e5d337de5c92a4376f5208e85008
-SHA256: 3b87f1bb0f66689bbaa5f0eb05976682914f4f55c2711d6df9bb00457233f10e
-Section: 系统工具
+Size: 343288
+MD5sum: 5f5f99b681d526b5220decf2dde16368
+SHA1: ba2400e1479612b7a560b27e9613ffaf7ac23b63
+SHA256: a0da7c6ebca5072760b956755c555a2981155836590fee7ab918de5bc02638ec
+Section: Tweaks
 Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
 Author: opa334 <opa334@protonmail.com>
 Name: Choicy(RootHide)
@@ -858,11 +858,11 @@ Architecture: iphoneos-arm64e
 Maintainer: ttt & daodao
 Depends: firmware (>= 15.0), com.opa334.ccsupport
 Filename: ./debs/com.ttt.cccurrentmodule_1.4_iphoneos-arm64e.deb
-Size: 26636
-MD5sum: 9494642f295aad1de16b96aee18e34fb
-SHA1: 798b6f0ad0b7dea20a049094bb0bf2a8d4782ceb
-SHA256: f9a8f9606e4b5576f7f7c375e2ab1eab6916569418909cf9ef8f019350e0fa2c
-Section: 控制中心
+Size: 51268
+MD5sum: 0839930d15f2d81b5965c051959be9c0
+SHA1: 8304887da09e106de05080c8bc90ff42201b2b17
+SHA256: f501bf123cde1f90e359a2e05386fb7bb258adc2af04f381c314451517c3dd6c
+Section: Tweaks
 Description: 控制中心电池状态模块，双行内容，可自定义设置；长按模块可展示更多电池信息。
 Author: ttt & daodao
 Name: CCBatt(RootHide)
@@ -1141,18 +1141,18 @@ Conflicts: jp.akusio.backgrounderaction15
 Replaces: jp.akusio.backgrounderaction15
 Provides: jp.akusio.backgrounderaction15
 Filename: ./debs/jp.akusio.backgrounderaction15s_0.1.0_iphoneos-arm64e.deb
-Size: 17374
-MD5sum: 1a45155bd6a0ed884a5f458efc414042
-SHA1: 8528059fd0dff58037718ce06c12b7b1899d8664
-SHA256: f39b41149896db5c0b824766dcc2cc1b220636a6cc09260fc8ebdbe6a9a6e493
-Section: 控制中心
+Size: 16976
+MD5sum: fc9b42d8c11fec0895ae6645b1409ca3
+SHA1: b8e0267dcb1d18ea61a0fbcc33137da268085913
+SHA256: 13f3e40a63f5d04eff0f5591b1a5402566fdf9695e3002275c7a80ec9e363d22
+Section: Tweaks
 Description: 控制中心真后台模块
  * 设置-控制中心添加模块
  * 在应用内开启模块应用将真后台，返回其他界面仍然运行
  * Add "Toggle Background Mode" action to ControlCenter.
 Author: @akusio_RR
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15.png
-Name: 真后台 BackgrounderAction15 CCSupport
+Name: 真后台 CCSupport
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
 
 Package: llswitch
