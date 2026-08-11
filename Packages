@@ -463,6 +463,43 @@ Author: Muirey03
 Icon: https://www.susubaby.top/images/cr4shed.png
 Name: Cr4shed
 
+Package: com.netskao.appdata
+Version: 1.4.6
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 5140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.6_iphoneos-arm64e.deb
+Size: 4441860
+MD5sum: dc555f610372d08903e385d39a1fb74f
+SHA1: 4165d0dd513a4e612814877a145ad549921e886c
+SHA256: fbf7bd39becb947dfa3b997d4a2883c8e2cb1073b6da5c94ec559e9df1351006
+Section: Netskao-Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
+
+Package: com.opa334.crane
+Version: 1.3.17
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.opa334.crane_1.3.17_iphoneos-arm64e.deb
+Size: 1559986
+MD5sum: ce6a8a9bd06cf2fa64f73d6532e13f5a
+SHA1: 76398f118217e83eb0b1a5da359e0d233be2b120
+SHA256: 6f7e053440b8d1f75d9f237a302f43049c46159fb3b6f60f1cca83b9a2445f91
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Name: Crane
+
 Package: com.opa334.crane
 Version: 1.3.17-2
 Architecture: iphoneos-arm64e
@@ -500,6 +537,23 @@ Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
+
+Package: com.rascal.ccmusic3x2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: rascal
+Installed-Size: 208
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/com.rascal.ccmusic3x2_1.0_iphoneos-arm64e.deb
+Size: 23392
+MD5sum: 4599628c7b2b3009b56d942873bddde1
+SHA1: 18dbd3fb0a9846ca93682ef7bf6265a322156c45
+SHA256: 603711827ff70a8da0f6b9e31f14ad4d6df53a75f66651432126de91769ac217
+Section: Tweaks
+Description: 修改播放器为3x2样式，背景支持 mp4/gif/png，素材存放路径:/var/mobile/ccmusic
+Author: rascal
+Icon: https://lt.sntp.uk/i/2026/01/25/6975ccd13b377.png
+Name: ccmusic3x2
 
 Package: com.sergy.immortalizer
 Version: 2.2
