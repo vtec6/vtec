@@ -213,6 +213,39 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-10
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.6-10_iphoneos-arm64e.deb
+Size: 1718962
+MD5sum: 01acce343be35bee597f6ac50c80428e
+SHA1: d146399ac5cdf5e856639980543cb1f2e4f8c0a4
+SHA256: 855e177b355d59cc04569bdd6d6fe90056c9f6a05cf7458755efa618161367f3
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.insulation
+Version: 0.0.13
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 636
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.insulation_0.0.13_iphoneos-arm64e.deb
+Size: 95160
+MD5sum: bb62f81b34426a4fc38f996c6c0d33c0
+SHA1: 020f6ac93da4517e7393d4fd746d84ab8e0d4732
+SHA256: f257efa91969b060fe2267cf0da8638cd68a464724fd156c35bd50bbd32a609d
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Author: be-huge
+Name: insulation
+
 Package: com.dao.appaze3.cn
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -413,6 +446,44 @@ Description: 系统崩溃报告器
 Author: Muirey03
 Icon: https://www.susubaby.top/images/cr4shed.png
 Name: Cr4shed
+
+Package: com.opa334.crane
+Version: 1.3.17-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.opa334.crane_1.3.17-2_iphoneos-arm64e.deb
+Size: 1560716
+MD5sum: f521496030ff64c4dde1efb80140f0d1
+SHA1: 01aa4fbabbfd0e230fd64008f4b5983ad2af412d
+SHA256: eb06e51b2eee14b4f3b7fe5786a28f497332bd97c55673098a46b392091ab938
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Name: Crane
+
+Package: com.qiop1379.swipeextenderx
+Version: 1.6.1~2
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.qiop1379.swipeextenderx_1.6.1~2_iphoneos-arm64e.deb
+Size: 119186
+MD5sum: 057a99f7df3ef9dab7e43a1444378648
+SHA1: 56a9669cf34ea7625cbf6595273acb5faf6710d2
+SHA256: 70cf18b98873b7c5c597826e860e22ebfcc064db50651412556d06378ae2a885
+Section: Tweaks
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Tag: compatible_min::ios14.0
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://chariz.com/get/swipeextenderx
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
 
 Package: com.sergy.immortalizer
 Version: 2.2
@@ -642,6 +713,40 @@ Section: Utilities
 Description: An awesome application!
 Author: Spark
 Name: SnowBoard
+
+Package: com.squidforce.copyvault
+Version: 1.9.0
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 6304
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.squidforce.copyvault_1.9.0_iphoneos-arm64e.deb
+Size: 1737768
+MD5sum: 33dc237063daaabde12999b14a08e1d5
+SHA1: ed36c3b8c060d4d1285d141b4ecfd64c144bd501
+SHA256: 7ee503479653f9ef7327593d31293c662988b58c6f53b0161162add33e53de21
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
+Package: com.squidforce.squidextender
+Version: 3.7.4
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 10136
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.squidforce.squidextender_3.7.4_iphoneos-arm64e.deb
+Size: 4546016
+MD5sum: cde65a52eae425e1159f67f6d3cfbed4
+SHA1: 48ddb54bd71ced0f1abc6c8f2986b3defd36b9b1
+SHA256: 3cef3774864e01fa13f0af627237f5472eb5f348c800d81885f68f8062abdb04
+Section: Tweaks
+Description: Extend your keyboard to be more POWERFULL!
+Author: SquidForce
+Name: SquidExtender
 
 Package: com.susu.collection
 Version: 1.0
@@ -1014,6 +1119,25 @@ Description: 把开关变成无聊的表情  开关不再卑微！
 Author: Simon
 Depiction: https://finngaida.de/repo/depictions/llswitch
 Name: 笑脸开关
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Ash
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.2.4_iphoneos-arm64e.deb
+Size: 221252
+MD5sum: 6de7ebee013c74ee552a66893fe7e516
+SHA1: 3f5e2477e2136eb68738c4c3038c7f8e59bb1110
+SHA256: 06d773f4f54b3c044254980c2f65da5fdb5f2f94846edb205f094305fcbe6ffc
+Section: Utilities
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
 Package: ws.hbang.newterm3
 Version: 3.0~beta1-670+debug
