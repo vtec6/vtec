@@ -7,3 +7,4 @@ Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: VTEC Personal Sileo Repository
 Icon: https://vtec6.github.io/CydiaIcon.png
+HeaderImage：banner.png
