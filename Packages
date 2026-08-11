@@ -19,3 +19,56 @@ Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.sergy.immortalizer
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: sergy
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/Susu-immortalizer-2.2.arm64e.deb
+Size: 47264
+MD5sum: be0604a76d27ab63d071e06f17dc53f0
+SHA1: e3e7043cfc6adce69fb4570785c7e7fdcbb41f9a
+SHA256: bae025002896782b2490a8ffe58241d1eac137835969b19f752b0cf1cceeb18f
+Section: Tweaks
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Name: Immortalizer
+
+Package: com.sini.siriplus
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: uckermark
+Installed-Size: 1744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/SiriPlus-1.3-arm64e.deb
+Size: 265252
+MD5sum: 7b8e801b594b3ababefffee38bdb2b79
+SHA1: 000fdcd5207ea409b837da4b6e086ed27df7cefd
+SHA256: 99478aaf8376223225b1cec7a485552f24e0a31b497c9bdd636dcdffac36584c
+Section: Tweaks
+Description: SiriPlus-rootless
+Author: uckermark
+Icon: https://sini921.github.io/repo/sileodepiction/icon/siriplus.png
+Name: SiriPlus
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/siriplus/js.json
+
+Package: com.wkk.zhihuhook
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.zhihuhook_1.0-1_iphoneos-arm64.deb
+Size: 3056
+MD5sum: 5fc448f1cdfaf75ac6831e5374fb0cb9
+SHA1: f04fbb551f25f266cb79eea9bbfe1a72f688d205
+SHA256: 92fbc7eee40afcfb25cb81c3fc53885c3dfcbf16f68bc3cb704de9ed5be5123b
+Section: 去广告
+Description: 去开屏广告，测试版本：10.78.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
+Name: 知乎NoAds
+
