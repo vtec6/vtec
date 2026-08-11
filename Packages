@@ -14,6 +14,57 @@ Description: CocoaTop简易汉化（roothide专用）
 Author: 来了老弟
 Name: CocoaTop汉化-roothide
 
+Package: cn.llld.swipeextenderx
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.llld.swipeextenderx_0.0.2_iphoneos-arm64e.deb
+Size: 10448
+MD5sum: 3ce8f89cf9a4c9dad96160aec8b2489b
+SHA1: 38e8c2be21d710621745efa94073082210b3bdee
+SHA256: 67f23e546e4ac38be463a6c6097259dee4e17105eac728763b2e5dfe838d1234
+Section: roothide汉化补丁
+Description: SwipeExtenderX汉化，swipeextenderx汉化--(rootess)简体中文包，更新：防止与任何汉化冲突，现在任意装
+Author: 来了老弟
+Name: SwipeExtenderX汉化-roothide
+
+Package: cn.zqbb.disupdateapp
+Version: 2.0.0-6
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 720
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/cn.zqbb.disupdateapp_2.0.0-6_iphoneos-arm64e.deb
+Size: 129804
+MD5sum: cde720ec3a3c718948f181cfc1a96b67
+SHA1: a999c2b1c8856ed4485856c76572e72fef7b2360
+SHA256: 8b636260cec451024da0c620602d798533b87d97634991cd531504a79958908f
+Section: Tweaks
+Description: 屏蔽App Store更新提示(Block App Store Updates)!
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
+Name: Hello App
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
+
+Package: com.dao.choicy
+Version: 1.5.3-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1056
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: ./debs/com.dao.choicy_1.5.3-2_iphoneos-arm64e.deb
+Size: 161610
+MD5sum: 4dac75e2f7e4e089131c5e50fa6d36c8
+SHA1: 08923ecc1ab422df3d0d1ca4cd3f0b10396ab390
+SHA256: f16d9306f1a10562d8594f7845135c9a24c2541534cfa5dc87768b66db3d9874
+Section: 嗨-系统
+Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy(RootHide)
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -34,6 +85,59 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
+
+Package: com.hk.snowboard.cn.rl
+Version: 1.5.37
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: ./debs/com.hk.snowboard.cn.rl_1.5.37_iphoneos-arm64e.deb
+Size: 3448
+MD5sum: 3be9564f234cd96dd131156b87d78ccc
+SHA1: ee61e21a34bd4299df6dd22eb2ea3d471340480a
+SHA256: 43e6758c7502927cfdaa6614775b630e97f89d5faec6e66c8e998d52b15362f8
+Section: 嗨-汉化
+Description: Snowboard 中文修正包(RootHide)。
+Author: 妖刀
+Name: Snowboard 中文修正包(RootHide)
+
+Package: com.huayuarc.kaxkad
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.huayuarc.kaxkad_0.0.1_iphoneos-arm64e.deb
+Size: 2616
+MD5sum: e30c482efb7e476ad9179e25349a2412
+SHA1: e6a89b7137e98d9a1b7d8e9581d109521cc853bd
+SHA256: fe052cd583695525bc9d91b53e817691a160e02d419637dff1e951a543af08c4
+Section: Tweaks
+Description: 去除启动广告，去除强制升级弹窗
+Author: Huayuarc
+Icon: https://huayuarc.github.io/images/kaxkad.png
+Name: 卡兄卡弟 Hooks
+
+Package: com.iosdump.filzacarplugins
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 10644
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.iosdump.filzacarplugin
+Filename: ./debs/com.iosdump.filzacarplugins_1.0.0_iphoneos-arm64e.deb
+Size: 21340148
+MD5sum: cba2aac4ab28c4d20703095f22a75f2f
+SHA1: c0628e4a143bd8b29e667d111249e7d7236b1696
+SHA256: f31cf7e4f143510ccc782ab8eec3dfecd16a5e88f5952ef4d3988897aa57f079
+Section: Tweaks
+Description: Filza 增强插件
+ * 提取与修改 Assets.car 资源文件
+ * 使用：长按 .car 文件，菜单中点击“打开方式”
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/icon.png
+Name: FilzaCarPlugin
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/js.json
 
 Package: com.sergy.immortalizer
 Version: 2.2
@@ -71,6 +175,194 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/siriplus.png
 Name: SiriPlus
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/siriplus/js.json
 
+Package: com.susu.snapper3.pictapro
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 180
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: ./debs/com.susu.snapper3.pictapro_1.0.1_iphoneos-arm64.deb
+Size: 10620
+MD5sum: 642e9176c818d33172e5a64406364120
+SHA1: db788e2d87875b5eb379ca0907701cce7ba80edb
+SHA256: d2c94af2fd040bc74674621dad7e701e15a992f3cc6569ce2c4ed1d93e31f5f4
+Section: Tweaks
+Description: PictaPro适配 Snapper3 的插件
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/PictaPro.png
+Name: PictaPro
+
+Package: com.ttt.cccurrentmodule
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: ttt & daodao
+Depends: firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.ttt.cccurrentmodule_1.4_iphoneos-arm64e.deb
+Size: 26664
+MD5sum: 3b7edfb3935b8003ec6da835d19c78ef
+SHA1: a5195a89bd4351f1cf8ec48b87c82834c851a3c5
+SHA256: 4594d5d591cad5c9c89b9a1ca916329ab954b933b8057a6c0bd507cffad7170f
+Section: 嗨-工具
+Description: 控制中心电池状态模块，双行内容，可自定义设置；长按模块可展示更多电池信息。
+Author: ttt & daodao
+Name: CCBatt(RootHide)
+
+Package: com.wkk.editpre
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.editpre_0.0.1_iphoneos-arm64e.deb
+Size: 38790
+MD5sum: 199dd15fe5fed737b57cc69263687733
+SHA1: 240d24dec8d4d6f81e688b410a27a90ffb904a97
+SHA256: 66868d512e0dbcebcd01f6d4c3360c1fd62aec19e95ae42392710dfaf3366b10
+Section: Tweaks
+Description: 桌面生成一个APP，可以在里面隐藏设置里的插件。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: 隐藏插件
+
+Package: com.wkk.filzadirprobe
+Version: 1.7.3
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.wkk.filzadirprobe_1.7.3_iphoneos-arm64e.deb
+Size: 48030
+MD5sum: 290f26969250ebea7804dc7e8c6fb82d
+SHA1: 0366119e561aa2c6ce81768b875f6cf61e1116e3
+SHA256: a5f9ef1914e2165e738aac0c4efafa0c8c104bb3eeb9eb8ff918e12af72caad7
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+Name: FilzaDirProbe
+
+Package: com.wkk.kbhook
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.kbhook_1.0-1_iphoneos-arm64e.deb
+Size: 2880
+MD5sum: 10093a44d4e6ba650981513e2299572d
+SHA1: b1ed5d0b583d860186f44ae0823b2bbb0bc6b9f4
+SHA256: 808ab7828b0ef4a985a0cc2fd6778b57ca0136814d366d13451879438ded8c61
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 系统键盘圆角
+
+Package: com.wkk.ng
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/com.wkk.ng_1.0-1_iphoneos-arm64e.deb
+Size: 135800
+MD5sum: 3949981cfa312f071e782dcb650fe1b9
+SHA1: 79768f6b349be4e19cba2457b1bc3e0d75cd6801
+SHA256: a6e8e4624ee1144ce575f0214b126127b974c9299ea9c4125125b024327b993a
+Section: 插件配置
+Description: 下载后注入本地验证的App随后点🐔购买。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: APP内购破解（TrollFools注入）
+
+Package: com.wkk.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.wkk.recordanywhere_1.1.0_iphoneos-arm64e.deb
+Size: 6224
+MD5sum: 4b7c8a98fc5c9b85af815adac1e5cd8f
+SHA1: 334834f69cbb3b7d67bb6cdb382b2312eeed7046
+SHA256: b0e45b987178843efbb02ca6cf639930e2431a923dc35080db870a552baca688
+Section: Tweaks
+Description: 使手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc
+Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
+Name: RecordAnywhere
+
+Package: com.wkk.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.wkk.smoothcursorios13_0.0.1_iphoneos-arm64e.deb
+Size: 4454
+MD5sum: 78fc5fa392267c33aea319b97bd646d5
+SHA1: 4486c8958e063a4a83c9ad70adbe44d7ced54578
+SHA256: 4e954d23d315caeb9f450337f4674a1efe1a0b483627d90beaca004d18aed040
+Section: Tweaks
+Description: Office 2013风格的光标动画。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+Name: SmoothCursor(Rootless)
+
+Package: com.wkk.springboardanimation
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.springboardanimation_1.0-1_iphoneos-arm64e.deb
+Size: 3276
+MD5sum: 35273f0bcbbc03b18df0687b6fb310bb
+SHA1: 2586d05712c196f7d7e1f4da8336b286374a37e4
+SHA256: 80acdc7402e5f565afce0bcc211f8eb05f76cbca01ab32939b1e8540238faa0c
+Section: Tweaks
+Description: 返回桌面及切换后台动画进行一定比例的缩放，双0.1模式。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 神奇的交互动画
+
+Package: com.wkk.ssschook
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wkk.ssschook_1.0-3_iphoneos-arm64e.deb
+Size: 3488
+MD5sum: 7b1095ce373f7035603a73e9426c06be
+SHA1: d550538135ab79a72115f3899e8090ec16a83800
+SHA256: 7b443ef5c35c72925feccebf29e647280746c5e0e10c7472930e5ea0201a4081
+Section: Tweaks
+Description: 排除编辑/快捷指令截图功能。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: 禁用截图预览
+
+Package: com.wkk.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 212
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.wkk.storeswitcher2_1.0.7_iphoneos-arm64e.deb
+Size: 20772
+MD5sum: b632c2702cca55aeeacc6affaf6449af
+SHA1: 293f63a02c0315ea171e07b09180349660463bc8
+SHA256: fa46ca5e1b78a0338559d3161ad53318eedc10f478c4e890533750e55836168f
+Section: Tweaks
+Description: App Store 账户快速切换，优化了账号切换逻辑，已汉化。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher2
+
 Package: com.wkk.zhihuhook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -87,4 +379,81 @@ Description: 去开屏广告，测试版本：10.78.0，接大量冷门热门app
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
 Name: 知乎NoAds
+
+Package: com.yourepo.lly.dismissalert
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 540
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.yourepo.lly.dismissalert_1.0.0_iphoneos-arm.deb
+Size: 89434
+MD5sum: bf3a541f8e88c15eba8f6ae71e73e164
+SHA1: e8d311e981e260f621d933ac9398c184626cef9f
+SHA256: 75278c4686c5b7246d385d4d8a1d035e3835aaf1ddd4abfa140b1b29c635e27d
+Section: Tweaks
+Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
+Name: DismissAlert【屏蔽弹窗】
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
+
+Package: com.zqbb.savephotos
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.zqbb.savephotos_1.1_iphoneos-arm64e.deb
+Size: 6098
+MD5sum: a177c5e0f355cc485fd537b4a291931f
+SHA1: 17e8b06a1b0e5c25fa14ac7c85a5f72b2d23a2ed
+SHA256: 0d4378e4c4d4bfed1e2dc7f06f13fbddca724e53815c49ec37cac30b83d32ff1
+Section: 插件
+Description: Snapper3全屏截图按钮增加(保存至相册)功能，超过7个按钮时UI补全至7个。上架备份。
+Author: zqbb
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
+Name: Hello Snapper
+
+Package: daniel.batman
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: daniel
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/daniel.batman_0.0.2-1+debug_iphoneos-arm64e.deb
+Size: 5014
+MD5sum: dc8fb4da28ad6b890ccf4adb1a155d01
+SHA1: 362e15bbe4576018f0f11d51f1697529a110ec88
+SHA256: 0c79c609dc2d8f2a015ed743d4ebf2130ae34552eda9ab70f872762e19a5930d
+Section: Tweaks
+Description: Display much more battery information
+Author: daniel
+Name: Batman
+
+Package: jp.akusio.backgrounderaction15s
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: @akusio_RR
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: jp.akusio.backgrounderaction15
+Replaces: jp.akusio.backgrounderaction15
+Provides: jp.akusio.backgrounderaction15
+Filename: ./debs/jp.akusio.backgrounderaction15s_0.1.0_iphoneos-arm64e.deb
+Size: 17374
+MD5sum: 1a45155bd6a0ed884a5f458efc414042
+SHA1: 8528059fd0dff58037718ce06c12b7b1899d8664
+SHA256: f39b41149896db5c0b824766dcc2cc1b220636a6cc09260fc8ebdbe6a9a6e493
+Section: 控制中心
+Description: 控制中心真后台模块
+ * 设置-控制中心添加模块
+ * 在应用内开启模块应用将真后台，返回其他界面仍然运行
+ * Add "Toggle Background Mode" action to ControlCenter.
+Author: @akusio_RR
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15.png
+Name: 真后台 BackgrounderAction15 CCSupport
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
 
