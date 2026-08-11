@@ -269,11 +269,11 @@ Maintainer: 妖刀
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.dao.appaze3.cn_1.0_iphoneos-arm64e.deb
-Size: 8148
-MD5sum: 5ef32aa6fa71367e358777b1db889cbd
-SHA1: 3300086345e2e2aa67332171994cc6b9e43c5b7a
-SHA256: 6ee1e8ebd9ca114931fd326b481f2f39fc2089308d64cd234210cbb1e213a4f4
-Section: 嗨-汉化
+Size: 10304
+MD5sum: 41c21a03b48560c070eca314483c0190
+SHA1: f22db826f6766ba45d89bb023207bbea29b15e1c
+SHA256: bcf192d434f0968ac82a4e3f278460aacfaa7240258b38c9e8f612bdc117facd
+Section: RootHide汉化补丁
 Description: Appaze 3 简体中文包(rootless)，仅汉化常规设置部分。
 Author: 妖刀
 Name: Appaze 3 简体中文包(rootless)
