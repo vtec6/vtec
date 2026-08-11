@@ -432,28 +432,3 @@ Description: Display much more battery information
 Author: daniel
 Name: Batman
 
-Package: jp.akusio.backgrounderaction15s
-Version: 0.1.0
-Architecture: iphoneos-arm64e
-Maintainer: @akusio_RR
-Installed-Size: 340
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.opa334.ccsupport
-Conflicts: jp.akusio.backgrounderaction15
-Replaces: jp.akusio.backgrounderaction15
-Provides: jp.akusio.backgrounderaction15
-Filename: ./debs/jp.akusio.backgrounderaction15s_0.1.0_iphoneos-arm64e.deb
-Size: 17374
-MD5sum: 1a45155bd6a0ed884a5f458efc414042
-SHA1: 8528059fd0dff58037718ce06c12b7b1899d8664
-SHA256: f39b41149896db5c0b824766dcc2cc1b220636a6cc09260fc8ebdbe6a9a6e493
-Section: 控制中心
-Description: 控制中心真后台模块
- * 设置-控制中心添加模块
- * 在应用内开启模块应用将真后台，返回其他界面仍然运行
- * Add "Toggle Background Mode" action to ControlCenter.
-Author: @akusio_RR
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15.png
-Name: 真后台 BackgrounderAction15 CCSupport
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
-
