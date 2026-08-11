@@ -303,13 +303,12 @@ Installed-Size: 1056
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Conflicts: com.opa334.choicy
 Filename: ./debs/com.dao.choicy_1.5.3-2_iphoneos-arm64e.deb
-Size: 343318
-MD5sum: 0f770dfac4e644ead90577e000e0710e
-SHA1: 28c13b90dc795b42fa749baf54aa80172548ee92
-SHA256: 366f9f8a32b4b59d796d8cf4b1860489af7777ba0d55fec1ebc18ec9f2ff1c63
+Size: 343298
+MD5sum: 152befe0e6d98d786fbd6be52c0bd86d
+SHA1: e9709678a9a8e5d337de5c92a4376f5208e85008
+SHA256: 3b87f1bb0f66689bbaa5f0eb05976682914f4f55c2711d6df9bb00457233f10e
 Section: 系统工具
 Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
-Tag: cydia::commercial
 Author: opa334 <opa334@protonmail.com>
 Name: Choicy(RootHide)
 
@@ -928,12 +927,13 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./debs/com.wkk.leftyfl1p.carbridge13_2.0.15_iphoneos-arm64e.deb
-Size: 882156
-MD5sum: d7c7bfd287bbbf6b38a2c6c3fdde9ee2
-SHA1: 9828d54a9cb7ea75dd794089feadcd0bdf6bbfd1
-SHA256: dfc4951349341c20b732eb793479c98f458ee59fd919cc69b1a17bd5f2bded3c
+Size: 882176
+MD5sum: 9dc962b11bde7ed27ab581cfc2834b1f
+SHA1: 3533dad10cc369c6e6f06a43b7f5f55a6f564db1
+SHA256: fa33aafe603fc1269d5b3f5eb81c729461110b3ea0141d89107c781f238f1d21
 Section: Tweaks
 Description: Open any app in CarPlay!（正版砸壳，有能力请支持正版）
+Tag: cydia::commercial
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
 Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
