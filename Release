@@ -2,9 +2,10 @@ Origin: ·VTEC
 Label: VTEC Sileo Repo
 Suite: stable
 Version: 1.0
-Codename: stable
+Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
+Rootless: true
 Description: VTEC Personal Sileo Repository
 Icon: https://vtec6.github.io/CydiaIcon.png
 SileoHeader: https://vtec6.github.io/banner.png
