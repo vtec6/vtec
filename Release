@@ -8,6 +8,4 @@ Components: main
 Rootless: true
 Description: VTEC Personal Sileo Repository
 Icon: https://vtec6.github.io/CydiaIcon.png
-SileoHeader: https://vtec6.github.io/banner.png
-HeaderImage: https://vtec6.github.io/banner.png
 
