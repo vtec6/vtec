@@ -1078,23 +1078,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 小丑真后台
 
-Package: com.wkk.zhihuhook
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.zhihuhook_1.0-1_iphoneos-arm64.deb
-Size: 3056
-MD5sum: 5fc448f1cdfaf75ac6831e5374fb0cb9
-SHA1: f04fbb551f25f266cb79eea9bbfe1a72f688d205
-SHA256: 92fbc7eee40afcfb25cb81c3fc53885c3dfcbf16f68bc3cb704de9ed5be5123b
-Section: 去广告
-Description: 去开屏广告，测试版本：10.78.0，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/02/07/42d027a2f16f489f6b6c2bf94a16cbb1.png
-Name: 知乎NoAds
-
 Package: com.yourepo.lly.dismissalert
 Version: 1.0.0
 Architecture: iphoneos-arm
