@@ -60,7 +60,7 @@ Size: 161610
 MD5sum: 4dac75e2f7e4e089131c5e50fa6d36c8
 SHA1: 08923ecc1ab422df3d0d1ca4cd3f0b10396ab390
 SHA256: f16d9306f1a10562d8594f7845135c9a24c2541534cfa5dc87768b66db3d9874
-Section: 系统
+Section: 嗨-系统
 Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
 Author: opa334 <opa334@protonmail.com>
 Name: Choicy(RootHide)
@@ -96,7 +96,7 @@ Size: 3448
 MD5sum: 3be9564f234cd96dd131156b87d78ccc
 SHA1: ee61e21a34bd4299df6dd22eb2ea3d471340480a
 SHA256: 43e6758c7502927cfdaa6614775b630e97f89d5faec6e66c8e998d52b15362f8
-Section: roothide汉化补丁
+Section: 嗨-汉化
 Description: Snowboard 中文修正包(RootHide)。
 Author: 妖刀
 Name: Snowboard 中文修正包(RootHide)
@@ -202,7 +202,7 @@ Size: 26664
 MD5sum: 3b7edfb3935b8003ec6da835d19c78ef
 SHA1: a5195a89bd4351f1cf8ec48b87c82834c851a3c5
 SHA256: 4594d5d591cad5c9c89b9a1ca916329ab954b933b8057a6c0bd507cffad7170f
-Section: 工具
+Section: 嗨-工具
 Description: 控制中心电池状态模块，双行内容，可自定义设置；长按模块可展示更多电池信息。
 Author: ttt & daodao
 Name: CCBatt(RootHide)
@@ -269,7 +269,7 @@ MD5sum: 3949981cfa312f071e782dcb650fe1b9
 SHA1: 79768f6b349be4e19cba2457b1bc3e0d75cd6801
 SHA256: a6e8e4624ee1144ce575f0214b126127b974c9299ea9c4125125b024327b993a
 Section: 插件配置
-Description: 下载后注入本地验证的App随后点击购买。
+Description: 下载后注入本地验证的App随后点🐔购买。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 Name: APP内购破解（TrollFools注入）
