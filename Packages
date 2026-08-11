@@ -21,11 +21,11 @@ Maintainer: 来了老弟
 Installed-Size: 240
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/cn.llld.cocoatop_0.0.1-2_iphoneos-arm64e.deb
-Size: 19040
-MD5sum: 9feb356ea3228a50de6f84226044798c
-SHA1: cc7cfebbe0a09760439ee6465b2c803b7d3a6bf1
-SHA256: 06aa20366c9efb618b65d21d2f1fdcbb323d8332f755c9ba3993d90b5043891e
-Section: roothide汉化补丁
+Size: 52054
+MD5sum: 64137e16f7d9d78104bb42972c5bfb6a
+SHA1: f465760df2f867e3a813d3ee9d129e60a0ec850e
+SHA256: fa9fa5eabf7212d16a878a33124164e12d07ca3666f5bcf018701ec00b66896b
+Section: RootHide汉化补丁
 Description: CocoaTop简易汉化（roothide专用）
 Author: 来了老弟
 Name: CocoaTop汉化-roothide
