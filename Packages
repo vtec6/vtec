@@ -867,6 +867,24 @@ Description: 控制中心电池状态模块，双行内容，可自定义设置�
 Author: ttt & daodao
 Name: CCBatt(RootHide)
 
+Package: com.vtec.wcplugins
+Version: 0.1-6
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.vtec.wcplugins_0.1-6_iphoneos-arm64e.deb
+Size: 17692
+MD5sum: a585d58b98a62ff9efb688024c4344aa
+SHA1: 9f2f13af41e763907958fd8c4845643bbcc4743a
+SHA256: 47e41f3628e4b8967e03f09b39fbbcdbb26364239eee041b416ed52ed96261a1
+Section: 微信插件
+Priority: optional
+Description: 修复热更新导致消失的问题。
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Name: 微信插件管理
+
 Package: com.wkk.editpre
 Version: 0.0.1
 Architecture: iphoneos-arm64e
