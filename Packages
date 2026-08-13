@@ -638,13 +638,14 @@ Installed-Size: 340
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.settingsicons_1.0.26~Beta3-rootless_iphoneos-arm64e.deb
-Size: 23908
-MD5sum: 06db8a47e6b9267948474160a1ed30e4
-SHA1: d5541962c5a1ad979433fff13baf6fee2322644e
-SHA256: 5b2a200c21ab29a46b3373de160baed252b9691a1c2ec185d09ba453f508503b
-Section: SnowBoard Extensions
-Description: Settings Icons for SnowBoard
+Size: 23896
+MD5sum: 02aed085d8da2dc303e75b8d915c6e84
+SHA1: 4db77e7009e25b0ce937252d359ae40001ccdc57
+SHA256: 778b6f5809946aba28a0b934acd826d39aafff7228b48b6b2fdb547e5fc77d93
+Section: SnowBoard 扩展
+Description: Settings Icons for SnowBoard（设置扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard Settings Icons Extension
 
 Package: com.spark.snowboard.statusbar
