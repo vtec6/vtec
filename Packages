@@ -547,13 +547,14 @@ Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
-Size: 45624
-MD5sum: 3a54651a23d8f1dfb2f10226423c40a3
-SHA1: ee7812da80fa2d7c382be967e78ac7b9310bbd87
-SHA256: 9cc7ea9db322bb3d4c3a699cd51c42c1fa60481ebe2d839183be860e61cf573c
-Section: SnowBoard Extensions
-Description: Icon Effects for SnowBoard
+Size: 45594
+MD5sum: c66b2d01e95d4e966e46f326c325d2e3
+SHA1: f986881d5bdac04eaa10f98d3372fd5152ee47d6
+SHA256: ea5ad90bf72cb9d1e68861d42035660359366c9ff8a7dc0ccdc28e1c7d660688
+Section: SnowBoard 扩展
+Description: Icon Effects for SnowBoard（图标扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard Icon Effects Extension
 
 Package: com.spark.snowboard.fonts
