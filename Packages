@@ -566,13 +566,14 @@ Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
 Replaces: com.ipr.bytafont, com.bytafont.bytafont3
 Provides: com.ipr.bytafont, com.bytafont.bytafont3
 Filename: ./debs/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
-Size: 27388
-MD5sum: a19abc9733991b6f9e0dacdae566164d
-SHA1: e21d9ca4df4deb0a502449223266a48f85df5e79
-SHA256: 0079bd7e33a530c59d0018568fcff515fac9cd6c46d16d68a55752acf881efbc
-Section: SnowBoard Extensions
-Description: Fonts for SnowBoard
+Size: 27382
+MD5sum: ecdb2401c5841641a0c5746bba19d24f
+SHA1: 7c0af5d0707f139473107f9ed499b76f34421b4a
+SHA256: 93729edddd2db072350ddea652f47bdf59331d10d9d4bde153446c65cdf0b0ff
+Section: SnowBoard 扩展
+Description: Fonts for SnowBoard（字体扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard Fonts Extension
 
 Package: com.spark.snowboard.labels
