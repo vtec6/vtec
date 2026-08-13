@@ -119,44 +119,6 @@ Description: CC Toggle to block ads on demand!
 Author: 0xkuj
 Name: CCAdsBeGone (roothide)
 
-Package: com.Axs.switchtheme
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: baiy（qq：961666883））
-Installed-Size: 272
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.switchtheme_1.0.0_iphoneos-arm64e.deb
-Size: 52098
-MD5sum: 34a0c227437cb91927c3699a652d5376
-SHA1: ccd0c9c21d0b2c237a906acac71c154d189dbb8e
-SHA256: 1bed6361d04c6eb8239e0892174fb1f550793594a84d34c2b9c54cc8e84be733
-Section: Tweaks
-Description: 这是一款款全新的开关主题，通过模拟太阳升起与落下的动画效果，带来极致流畅且视觉惊艳的替代体验。
-Author: 白衣
-Icon: https://axs66.github.io/repo/icon/switchtheme.png
-Name: 日月开关
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
-
-Package: com.Axs.switchtheme3
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: baiy
-Installed-Size: 5520
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.switchtheme3_1.0.0_iphoneos-arm64e.deb
-Size: 173652
-MD5sum: 7f23d907dbe8692299f6c4c2c021ca5c
-SHA1: f5cc11feb4ad3a59fd25779f8a5008f994284ddf
-SHA256: 3cadab5f9ef93bacf27cddcee74167a5092e58a299d58ea35171875408d09d1c
-Section: Tweaks
-Description: 这是一款全新的Line-iOS动态开关，搭配Line微信主题绝配，丝滑的动画体验，极致的简约。
-Author: 白衣
-Icon: https://axs66.github.io/repo/icon/switchtheme3.png
-Name: SwitchTheme-Line开关
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/switchtheme/js.json
-
 Package: com.anthopak.appaze3
 Version: 1.0.1
 Architecture: iphoneos-arm64e
