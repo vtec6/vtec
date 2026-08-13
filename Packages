@@ -512,13 +512,14 @@ Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debs/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64e.deb
-Size: 2590374
-MD5sum: 7a092d063564fe50c66add97733805da
-SHA1: 7723ed65ea0a7e60d53a380c19884a623d03243f
-SHA256: a2106e6119ef484cf8199ba533a6b870d389c7754b7ffaa8dc9ed4a7af6a6480
+Size: 1345540
+MD5sum: e1fd4f3b2f37b0ff51a353901e74567d
+SHA1: 0ed63ee560962ade2a549a91df7953f9dfe9f0ed
+SHA256: b8175d32fe0e0b8c7d932a76a48f3ba4ac8d929c4d3bbc85b7e6c876d753be74
 Section: Tweaks
 Description: Snowboard theming engine
 Author: Spark & Dennis D. Bednarz
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard
 
 Package: com.spark.snowboard.dock
