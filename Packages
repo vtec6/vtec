@@ -584,13 +584,14 @@ Installed-Size: 432
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.labels_1.1.1~Beta4-rootless_iphoneos-arm64e.deb
-Size: 33844
-MD5sum: 2b7e011f3e242ca3e1a3b2946d0dd141
-SHA1: 142f941ee81bc577e9f9506964ada1e4ad313881
-SHA256: 0e918f467bd3739037766794ee490cc88c91aa03031092727b70401949f38fd9
-Section: SnowBoard Extensions
-Description: Labels for SnowBoard
+Size: 33938
+MD5sum: 4c05d65666861bb7e773858ca857bec2
+SHA1: 79f3845d59ae83bde7232679924587d438bacae4
+SHA256: 73a1f52685e6d5fa1585acd4b2c6b7b38e5617a3ed71447d32a61ffa4199c6eb
+Section: SnowBoard 扩展
+Description: Labels for SnowBoard（角标扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard Labels Extension
 
 Package: com.spark.snowboard.masks
