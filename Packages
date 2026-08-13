@@ -276,6 +276,24 @@ Description: 高级插件配置器，可单独为每个程序启用/禁用插件
 Author: opa334 <opa334@protonmail.com>
 Name: Choicy(RootHide)
 
+Package: com.dao.choicy
+Version: 1.5.4-1
+Architecture: iphoneos-arm64e
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1104
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: ./debs/com.dao.choicy_1.5.4-1_iphoneos-arm64e.deb
+Size: 347048
+MD5sum: 1fd910f42484e0436e5520d3db444f36
+SHA1: 496e347f6e27813dbf1c9756a17c9d0d39cbdbef
+SHA256: 2e1f9893c0ec39079227635f261b2badca609ffcccd21ab89247c3a4421604c3
+Section: Tweaks
+Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
+Author: opa334 <opa334@protonmail.com>
+Icon: https://s1.imagehub.cc/images/2026/08/12/04e8a7f5f6e1b218dd7c158f9aef9603.png
+Name: Choicy(RootHide)
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -447,23 +465,6 @@ Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
-
-Package: com.rascal.ccmusic3x2
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: rascal
-Installed-Size: 208
-Depends: firmware (>= 16.0), mobilesubstrate
-Filename: ./debs/com.rascal.ccmusic3x2_1.0_iphoneos-arm64e.deb
-Size: 23392
-MD5sum: 4599628c7b2b3009b56d942873bddde1
-SHA1: 18dbd3fb0a9846ca93682ef7bf6265a322156c45
-SHA256: 603711827ff70a8da0f6b9e31f14ad4d6df53a75f66651432126de91769ac217
-Section: Tweaks
-Description: 修改播放器为3x2样式，背景支持 mp4/gif/png，素材存放路径:/var/mobile/ccmusic
-Author: rascal
-Icon: https://lt.sntp.uk/i/2026/01/25/6975ccd13b377.png
-Name: ccmusic3x2
 
 Package: com.sergy.immortalizer
 Version: 2.2
