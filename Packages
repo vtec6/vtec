@@ -902,6 +902,24 @@ Author: 白衣
 Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
 Name: 日月开关
 
+Package: com.vtec.switchtheme3
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: baiy
+Installed-Size: 5520
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.vtec.switchtheme3_1.0.0_iphoneos-arm64e.deb
+Size: 49008
+MD5sum: 188bcb71ae33ff3095feccc2cf235558
+SHA1: b8aaef763b3b6fb007634866320dd5ecab074a5e
+SHA256: c3a20b9a99d236145422dd2c4246c0f18d795a1dd153ba938bc128e8da344e7b
+Section: Tweaks
+Description: 一款全新的Line-iOS动态开关，搭配Line微信主题绝配，丝滑的动画体验，极致的简约。
+Author: 白衣
+Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
+Name: SwitchTheme-Line开关
+
 Package: com.vtec.wcplugins
 Version: 0.1-6
 Architecture: iphoneos-arm64e
