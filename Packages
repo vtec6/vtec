@@ -267,13 +267,14 @@ Installed-Size: 1056
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Conflicts: com.opa334.choicy
 Filename: ./debs/com.dao.choicy_1.5.3-2_iphoneos-arm64e.deb
-Size: 343288
-MD5sum: 5f5f99b681d526b5220decf2dde16368
-SHA1: ba2400e1479612b7a560b27e9613ffaf7ac23b63
-SHA256: a0da7c6ebca5072760b956755c555a2981155836590fee7ab918de5bc02638ec
+Size: 343378
+MD5sum: 9b8d45b1efa40c1f042ad1abd34f4bbe
+SHA1: b78b519ac3ba0cdfe859cec2af2411a4a2e17189
+SHA256: 14c312d383df578c74412ce42d4338345159d077cd58c04b400cfe422b7d1b6e
 Section: Tweaks
 Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
 Author: opa334 <opa334@protonmail.com>
+Icon: https://s1.imagehub.cc/images/2026/08/12/04e8a7f5f6e1b218dd7c158f9aef9603.png
 Name: Choicy(RootHide)
 
 Package: com.dao.choicy
