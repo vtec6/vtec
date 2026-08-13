@@ -165,13 +165,14 @@ Installed-Size: 336
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/com.baiy.switchtheme_1.0.0_iphoneos-arm64e.deb
-Size: 69000
-MD5sum: 65620f096a0da5c1adfccc0bbafe9aed
-SHA1: dbb0fed0442e406a502f9ad9fa1cf77a00fe0757
-SHA256: 9d8dbb523dcd205cfbe93892948aa7e7c091d145a006aa2cc1f30ca02e557813
+Size: 68850
+MD5sum: 40390cad21e1c4d0c289840355b35949
+SHA1: aaac1fdefdc82217182265357d021c7e056bfbd5
+SHA256: 5c7d6ac76eff0328c0af5e297bc5aa98f7cc08b3d838c75c467be284652fff0c
 Section: Tweaks
-Description: 这是一款全新的开关主题，用皮卡丘的元素来装饰你的开关，让你的开关变得可爱起来
+Description: 一款全新的开关主题，用皮卡丘的元素来装饰你的开关，让你的开关变得可爱起来
 Author: 白衣
+Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
 Name: SwitchTheme-皮卡丘
 
 Package: com.be-huge.floating-view
