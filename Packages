@@ -311,23 +311,6 @@ Description: Snowboard 中文修正包(RootHide)。
 Author: 妖刀
 Name: Snowboard 中文修正包(RootHide)
 
-Package: com.huayuarc.kaxkad
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: Huayuarc
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.huayuarc.kaxkad_0.0.1_iphoneos-arm64e.deb
-Size: 2616
-MD5sum: e30c482efb7e476ad9179e25349a2412
-SHA1: e6a89b7137e98d9a1b7d8e9581d109521cc853bd
-SHA256: fe052cd583695525bc9d91b53e817691a160e02d419637dff1e951a543af08c4
-Section: Tweaks
-Description: 去除启动广告，去除强制升级弹窗
-Author: Huayuarc
-Icon: https://huayuarc.github.io/images/kaxkad.png
-Name: 卡兄卡弟 Hooks
-
 Package: com.iosdump.filzacarplugins
 Version: 1.0.0
 Architecture: iphoneos-arm64e
