@@ -654,13 +654,14 @@ Installed-Size: 364
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64e.deb
-Size: 36306
-MD5sum: 2c25931abc8e916ec7aaed563865b545
-SHA1: d67ea880b2251b226cfa9e4bb4bb42b4b6a00654
-SHA256: 6215a375ab45f0292a494f825cdb478b37e5b8f369ab01a4830c87ecb8daa381
-Section: SnowBoard Extensions
-Description: StatusBar for SnowBoard
+Size: 36540
+MD5sum: 971c4d7b071701d441224a95bd897d7d
+SHA1: 256a23235ba76b7d4c63803a8f54d3f9707a5e0d
+SHA256: 6d4f16082f8b5ae5bc504667ada429258e1f5a96e6df4a13cf86dc19a52a3b81
+Section: SnowBoard 扩展
+Description: StatusBar for SnowBoard（状态栏扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard StatusBar Extension
 
 Package: com.spark.snowboard.ui
