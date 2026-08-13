@@ -867,6 +867,23 @@ Description: 控制中心电池状态模块，双行内容，可自定义设置�
 Author: ttt & daodao
 Name: CCBatt(RootHide)
 
+Package: com.vtec.kaxkad
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.vtec.kaxkad_0.0.1_iphoneos-arm64e.deb
+Size: 4040
+MD5sum: e37c40b07c7d1ec47b57b4344f268ac7
+SHA1: 41efd2df1c02a2b1142564c8c68f7d3831077ad1
+SHA256: df7ce07f1ee5c1daf7545b8a76a70acf62beef2330456086c35ef276facf5fb5
+Section: Tweaks
+Description: 去除启动广告，去除强制升级弹窗，自行测试。
+Author: Huayuarc
+Icon: https://s1.imagehub.cc/images/2026/08/13/ed526183f375d6d77cedca7acc06767e.png
+Name: 卡兄卡弟 Hooks屏蔽
+
 Package: com.vtec.switchtheme
 Version: 1.0.0
 Architecture: iphoneos-arm64e
