@@ -883,6 +883,24 @@ Description: 控制中心电池状态模块，双行内容，可自定义设置�
 Author: ttt & daodao
 Name: CCBatt(RootHide)
 
+Package: com.vtec.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: baiy（qq：961666883））
+Installed-Size: 272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.vtec.switchtheme_1.0.0_iphoneos-arm64e.deb
+Size: 38452
+MD5sum: cd31c3745895924128c548d7deafa31d
+SHA1: 1480c37f12c57e6cedc7e429af1dbffe840ddfc3
+SHA256: a3c371b510961290f95cf93e7bee3339c10cf5e0ad8b2adac091ae73266c7988
+Section: Tweaks
+Description: 一款款全新的开关主题，通过模拟太阳升起与落下的动画效果，带来极致流畅且视觉惊艳的替代体验。
+Author: 白衣
+Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
+Name: 日月开关
+
 Package: com.vtec.wcplugins
 Version: 0.1-6
 Architecture: iphoneos-arm64e
