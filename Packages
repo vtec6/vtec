@@ -5,14 +5,15 @@ Maintainer: 来了老弟
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/apt.llld.systeminfo_2.7.2-3_iphoneos-arm64e.deb
-Size: 274432
-MD5sum: b8703688727089bafbf007e1e9f910e1
-SHA1: ee95d606ffb8a6eebf2aeff724cca82a8c9ea946
-SHA256: 6eee2e4ac878e0c8c4dc8211a1bde62905abc0110f3a0181127895e73939fa63
-Section: Tweaks
+Size: 274744
+MD5sum: 04db52a96f6cc2f8220465c0102d02fe
+SHA1: 5692eab4f9768132270665551475ee04dd1ce911
+SHA256: f5a4d7c2bfc6eddb3c5b96f631d4a2585cd9f938843074648ca9ddb6ed247ff1
+Section: Utilities
 Description: Display all system information of iOS。显示 iOS 所有系统信息，不用装Legacy arm64e Support_________仅测试，有问题请卸载
 Author: ARX8x 来了老弟
-Name: System Info 系统信息-rootless
+Icon: https://s1.imagehub.cc/images/2026/08/13/694bf1d566a79c88d42760fe1a44bad4.png
+Name: System Info 系统信息
 
 Package: cn.llld.cocoatop
 Version: 0.0.1-2
