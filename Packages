@@ -1240,14 +1240,14 @@ Installed-Size: 204
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/llswitch_1.0_iphoneos-arm64e.deb
-Size: 21716
-MD5sum: 50422a170bbd2cf2403ed669b69bf074
-SHA1: f50206e684aae5d56746759277adfc01f5dd4d40
-SHA256: e8121bba240356f0635613eed8d773487e936bdf5aa9ca62812550736857c9a1
+Size: 21690
+MD5sum: cf5dfdb777a8747dfe79a0d663209789
+SHA1: 2fe406ae249fc1b86ed60b0cc1028401ccc03d66
+SHA256: 60d5dd2afd915b64d956d0864af265c914a290ba92f5f60c92f79dbcabbc0135
 Section: Tweaks
 Description: 把开关变成无聊的表情  开关不再卑微！
 Author: Simon
-Depiction: https://finngaida.de/repo/depictions/llswitch
+Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
 Name: 笑脸开关
 
 Package: ru.domo.cocoatop64
