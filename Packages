@@ -617,13 +617,14 @@ Installed-Size: 488
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
 Filename: ./debs/com.spark.snowboard.presetextension_1.1.0~Beta4-rootless_iphoneos-arm64e.deb
-Size: 57482
-MD5sum: 40979f3f03afbb7a80281dbdd526993e
-SHA1: 72f995f070297bd8ca86a38c6d4b834257501a52
-SHA256: 4eaf572365a71ab9382da25a88cdddd68345bbbc33979974e7e51950142dd638
-Section: SnowBoard Extensions
-Description: SnowBoard Presets Extension
+Size: 55152
+MD5sum: f84afecbf475c1e9e92e508c3b07d96b
+SHA1: fa1e935200620acf3b2293f0a5e00670998759a1
+SHA256: dc41c0abff0e56f6328bf875422eae5d1ca2fb6ff48a71413abf08f05a17a647
+Section: SnowBoard 扩展
+Description: SnowBoard Presets Extension（主题扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard Preset Extension
 
 Package: com.spark.snowboard.settingsicons
