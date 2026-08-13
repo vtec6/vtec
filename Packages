@@ -529,13 +529,14 @@ Installed-Size: 440
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64e.deb
-Size: 44322
-MD5sum: ecbc415842cf2d02af6e5cb7c6bced50
-SHA1: e4795fdda42a7df8709d5a19fa782d6e26d856e4
-SHA256: 3b7759b837869b958e5c20ea0616aa016c47e1de4fb6225caa57b47a8fbc8068
-Section: SnowBoard Extensions
-Description: Dock for SnowBoard
+Size: 44014
+MD5sum: fd34f5130b07fa9f2edeff3b10f2788f
+SHA1: f17aede196bfb022a9215555dfb271ef0a3d9e70
+SHA256: a4f3723c29734b52d10a4cdf9131157eda3318500237d359641d42f5c4e24571
+Section: SnowBoard 扩展
+Description: Dock for SnowBoard（Dock栏扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard Dock Extension
 
 Package: com.spark.snowboard.effects
