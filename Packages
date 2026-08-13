@@ -668,13 +668,14 @@ Installed-Size: 476
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
 Filename: ./debs/com.spark.snowboard.ui_1.3.0~Beta2-rootless_iphoneos-arm64e.deb
-Size: 92234
-MD5sum: 6012fd513222e4ec4b6ad774047b067e
-SHA1: 2707d558e2cb8cbd74c7a5c78745cd4e20118d4e
-SHA256: b3bee73791912025542d77774aa1306aefc9a262d6078843a7a0a6cc2f0e21b2
-Section: SnowBoard Extensions
-Description: UI Extension for SnowBoard
+Size: 91152
+MD5sum: 51b99901baf06ccd3533eeae28e868a5
+SHA1: 61354a5506582bab69881f90cef429ec689601bb
+SHA256: a09f574f44ec8cca2afa46735e71d3c67890429d9b9f2d62469047ae0c87ace8
+Section: SnowBoard 扩展
+Description: UI Extension for SnowBoard（UI扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard UI Extension
 
 Package: com.spark.snowboardapplication
