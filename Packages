@@ -601,13 +601,14 @@ Installed-Size: 340
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.masks_1.2.2-Beta2-rootless_iphoneos-arm64e.deb
-Size: 25492
-MD5sum: 8e92a2c3ca8f351e50af418a36d94a5d
-SHA1: 29478e2df5de25bacba344e5fd63b824b854c45d
-SHA256: 3543826e1cfd388bc88d45ee1996d1584b5337609995b11c7ea61a41b0531455
-Section: SnowBoard Extensions
-Description: Icon masks for SnowBoard
+Size: 25680
+MD5sum: a9bbaee2d182b0d0fd030a21a774d2b1
+SHA1: 20e24c089e16887db8098e8964ca5dce4606738a
+SHA256: f32c489ac4b8f75d4eaa23d2279efafedc7e64535dfe1932be04d25b995735e3
+Section: SnowBoard 扩展
+Description: Icon masks for SnowBoard（遮罩扩展）
 Author: Spark
+Icon: https://s1.imagehub.cc/images/2026/08/13/27349ca90f87435238126a381248b98a.png
 Name: SnowBoard Icon Masks Extension
 
 Package: com.spark.snowboard.presetextension
