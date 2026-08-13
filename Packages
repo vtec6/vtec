@@ -1130,24 +1130,6 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: 禁用截图预览
 
-Package: com.wkk.storeswitcher2
-Version: 1.0.7
-Architecture: iphoneos-arm64e
-Maintainer: 苏苏
-Installed-Size: 212
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11), mobilesubstrate
-Filename: ./debs/com.wkk.storeswitcher2_1.0.7_iphoneos-arm64e.deb
-Size: 20772
-MD5sum: b632c2702cca55aeeacc6affaf6449af
-SHA1: 293f63a02c0315ea171e07b09180349660463bc8
-SHA256: fa46ca5e1b78a0338559d3161ad53318eedc10f478c4e890533750e55836168f
-Section: Tweaks
-Description: App Store 账户快速切换，优化了账号切换逻辑，已汉化。
-Author: 苏苏
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: StoreSwitcher2
-
 Package: com.wkk.xcht
 Version: 1.0-1
 Architecture: iphoneos-arm64e
