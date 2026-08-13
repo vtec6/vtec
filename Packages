@@ -869,13 +869,14 @@ Architecture: iphoneos-arm64e
 Maintainer: ttt & daodao
 Depends: firmware (>= 15.0), com.opa334.ccsupport
 Filename: ./debs/com.ttt.cccurrentmodule_1.4_iphoneos-arm64e.deb
-Size: 51268
-MD5sum: 0839930d15f2d81b5965c051959be9c0
-SHA1: 8304887da09e106de05080c8bc90ff42201b2b17
-SHA256: f501bf123cde1f90e359a2e05386fb7bb258adc2af04f381c314451517c3dd6c
+Size: 51342
+MD5sum: 8bf7d5a597738348bac1b5645e8f64fe
+SHA1: 5b9d54e1d108735fbe122d97d96dac7faea63e72
+SHA256: 9e3eae2004246b488d2c06f5db00c3d058a7d55c4884ea0089bfdc8c172d5859
 Section: Tweaks
 Description: 控制中心电池状态模块，双行内容，可自定义设置；长按模块可展示更多电池信息。
 Author: ttt & daodao
+Icon: https://s1.imagehub.cc/images/2026/08/13/14432a173d325b3df5001c658ef19c90.png
 Name: CCBatt(RootHide)
 
 Package: com.vtec.kaxkad
