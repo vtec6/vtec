@@ -895,6 +895,24 @@ Author: Huayuarc
 Icon: https://s1.imagehub.cc/images/2026/08/13/ed526183f375d6d77cedca7acc06767e.png
 Name: 卡兄卡弟 Hooks屏蔽
 
+Package: com.vtec.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 212
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.vtec.storeswitcher2_1.0.7_iphoneos-arm64e.deb
+Size: 16300
+MD5sum: b533c194c104a7f0e61077794193ac3c
+SHA1: d80cd8429734136c0923d53ca483874790e841e3
+SHA256: ddc3dc721db7f3996334d033e03b60c5eeee77afae3b49329ed9c3db6ab51c6b
+Section: Tweaks
+Description: App Store 账户快速切换，优化了账号切换逻辑。
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2026/08/13/d5ed7f26f4d3bcd704fe7e1160ac694e.png
+Name: StoreSwitcher2
+
 Package: com.vtec.switchtheme
 Version: 1.0.0
 Architecture: iphoneos-arm64e
