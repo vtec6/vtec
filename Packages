@@ -285,11 +285,11 @@ Installed-Size: 1056
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Conflicts: com.opa334.choicy
 Filename: ./debs/com.dao.choicy_1.5.3-4_iphoneos-arm64e.deb
-Size: 161664
-MD5sum: 18df4d24819218006fd0f54f29de9ab0
-SHA1: db367a65786326af76f6c9a63ad66f5e7d11072d
-SHA256: 4d2dd7a923c1380dc5dfbb10bf0ec8828bd5b009852376fe284d0738f71abce7
-Section: 嗨-系统
+Size: 343260
+MD5sum: 737053b28162608dd15c0d7be288a9e9
+SHA1: dbdb93e874c2ef07f6b0c633803b2fb3a7125688
+SHA256: f44bf4ca865cef7bdc0fc35f5e0c6540b4d54ee24b4afe45da0c1d9e68f5712e
+Section: Tweaks
 Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
 Author: opa334 <opa334@protonmail.com>
 Name: Choicy(RootHide)
@@ -302,11 +302,11 @@ Installed-Size: 1104
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Conflicts: com.opa334.choicy
 Filename: ./debs/com.dao.choicy_1.5.4-1_iphoneos-arm64e.deb
-Size: 165468
-MD5sum: 1fbcd0c4792df74798f5a5220f6a153b
-SHA1: 3a88110b425c9e82f2b79d85afd7d6722a9d0259
-SHA256: 7ad223591ec738fff88ac68b216a3489d48a9992d8ccdee394b0666e3c460f61
-Section: 嗨-系统
+Size: 346952
+MD5sum: 3d7ac9b2c2b70a95c01cef69c01143ac
+SHA1: 0807c5f748d95605bb70d13f55d999167bfda5cd
+SHA256: 46c9c278e3c32d4da9714c5ceb0d993ec06015b6d03ed26fc6caf8f29989a5fa
+Section: Tweaks
 Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
 Author: opa334 <opa334@protonmail.com>
 Name: Choicy(RootHide)
@@ -483,6 +483,23 @@ Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
+
+Package: com.rascal.ccmusic3x2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: rascal
+Installed-Size: 208
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/com.rascal.ccmusic3x2_1.0_iphoneos-arm64e.deb
+Size: 23392
+MD5sum: 4599628c7b2b3009b56d942873bddde1
+SHA1: 18dbd3fb0a9846ca93682ef7bf6265a322156c45
+SHA256: 603711827ff70a8da0f6b9e31f14ad4d6df53a75f66651432126de91769ac217
+Section: Tweaks
+Description: 修改播放器为3x2样式，背景支持 mp4/gif/png，素材存放路径:/var/mobile/ccmusic
+Author: rascal
+Icon: https://lt.sntp.uk/i/2026/01/25/6975ccd13b377.png
+Name: ccmusic3x2
 
 Package: com.sergy.immortalizer
 Version: 2.2
