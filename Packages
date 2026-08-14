@@ -379,13 +379,14 @@ Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
 Filename: ./debs/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
-Size: 1093712
-MD5sum: fbae1c464f18ff7ac37c5e3662172491
-SHA1: f826fa57f34ea99032ee0c69d437213de2f869cc
-SHA256: 006c5e90f95cafd90cbaf3dae8e9bb650689ba6f0ce4f57b9d7dd78c74fd4a48
+Size: 3846128
+MD5sum: 322fa28df96b4c3e624106c93414216a
+SHA1: 6936f910b82bbadbdd9b90b888734e8f575d2ba4
+SHA256: c8bf1ce827ddf088caa3cbe98b708a2f121130627098e8ad1ec3dcc66c2c4a0c
 Section: Tweaks
 Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
+Icon: https://s1.imagehub.cc/images/2025/02/27/f9eb963b7be6a61103d287689931b7d7.png
 Name: Snapper 3
 
 Package: com.kingpuffdaddi.control-center.ccvpn
