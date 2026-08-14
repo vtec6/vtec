@@ -277,42 +277,6 @@ Description: 在 CarPlay 中打开任何应用程序！
 Author: leftyfl1p <carbridge@havoc.app>
 Name: CarBridge(RootHide)
 
-Package: com.dao.choicy
-Version: 1.5.3-2
-Architecture: iphoneos-arm64e
-Maintainer: opa334 <opa334@protonmail.com>
-Installed-Size: 1056
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Conflicts: com.opa334.choicy
-Filename: ./debs/com.dao.choicy_1.5.3-2_iphoneos-arm64e.deb
-Size: 343378
-MD5sum: 9b8d45b1efa40c1f042ad1abd34f4bbe
-SHA1: b78b519ac3ba0cdfe859cec2af2411a4a2e17189
-SHA256: 14c312d383df578c74412ce42d4338345159d077cd58c04b400cfe422b7d1b6e
-Section: Tweaks
-Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
-Author: opa334 <opa334@protonmail.com>
-Icon: https://s1.imagehub.cc/images/2026/08/12/04e8a7f5f6e1b218dd7c158f9aef9603.png
-Name: Choicy(RootHide)
-
-Package: com.dao.choicy
-Version: 1.5.4-1
-Architecture: iphoneos-arm64e
-Maintainer: opa334 <opa334@protonmail.com>
-Installed-Size: 1104
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Conflicts: com.opa334.choicy
-Filename: ./debs/com.dao.choicy_1.5.4-1_iphoneos-arm64e.deb
-Size: 347048
-MD5sum: 1fd910f42484e0436e5520d3db444f36
-SHA1: 496e347f6e27813dbf1c9756a17c9d0d39cbdbef
-SHA256: 2e1f9893c0ec39079227635f261b2badca609ffcccd21ab89247c3a4421604c3
-Section: Tweaks
-Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
-Author: opa334 <opa334@protonmail.com>
-Icon: https://s1.imagehub.cc/images/2026/08/12/04e8a7f5f6e1b218dd7c158f9aef9603.png
-Name: Choicy(RootHide)
-
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -916,26 +880,6 @@ Description: 去除启动广告，去除强制升级弹窗，自行测试。
 Author: Huayuarc
 Icon: https://s1.imagehub.cc/images/2026/08/13/ed526183f375d6d77cedca7acc06767e.png
 Name: 卡兄卡弟 Hooks屏蔽
-
-Package: com.vtec.onesettings
-Version: 2.2
-Architecture: iphoneos-arm64e
-Maintainer: vtec
-Installed-Size: 1084
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
-Filename: ./debs/com.vtec.onesettings_2.2_iphoneos-arm64e.deb
-Size: 217056
-MD5sum: 4326b32318ae6fc4e787ba8e60d09cb2
-SHA1: 28850047ca4c35110be3a2ca50c1e28b308cba70
-SHA256: 498fb0793a9002745e7fd458231a7d54380ed88c7bd6409e9e1b15e6b4de2944
-Section: Tweaks
-Description: 插件归类，已完全汉化。
-Author: Nightwind
-Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
-Name: OneSettings
-Sponsor: vtec
 
 Package: com.vtec.storeswitcher2
 Version: 1.0.7
