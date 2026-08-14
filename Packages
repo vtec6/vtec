@@ -194,6 +194,44 @@ Author: 白衣
 Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
 Name: SwitchTheme-皮卡丘
 
+Package: com.be-huge.floating-view
+Version: 1.5.2-6
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.2-6_iphoneos-arm64e.deb
+Size: 1481956
+MD5sum: c8e6dc9098db2780921e0a4517cd10ad
+SHA1: 439f0546345ee0dc49bf41a91accc789fafb8e55
+SHA256: 79cd93e376917af943307e33ec06da34ee898db7d1590ea0cc3c8b0e747b6271
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-10
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3272
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.be-huge.floating-view_1.5.6-10_iphoneos-arm64e.deb
+Size: 1699700
+MD5sum: e1b1518635cd22173f370fb83716d975
+SHA1: 8146eaaec24ff2daa92e69f6cae1a1fec99ce73d
+SHA256: f5db62d7f3d7415b94345143e9b0634d59a44297fa4f0aad6d999adc9d6d1763
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.be-huge.insulation
 Version: 0.0.13
 Architecture: iphoneos-arm64e
