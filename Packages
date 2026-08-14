@@ -33,6 +33,23 @@ Author: 来了老弟 X: h_h_x_t
 Icon: https://s1.imagehub.cc/images/2026/08/13/47b74e931dc8066945ca4aaa9677a91e.png
 Name: 截图标记
 
+Package: cn.llld.biaoji
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 X: h_h_x_t
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/cn.llld.biaoji_1.5_iphoneos-arm64e.deb
+Size: 61370
+MD5sum: 36b155426126e77f44a5222dc3305daf
+SHA1: 0ec8700050eef675d626b493a37658b7e4f2a5b8
+SHA256: 7231e1097ca427a139cfdb95616ea790871756b3834cf32bcd060bc6fa6d0fe9
+Section: Utilities
+Description: 给Snapper 或stayShot插件增加标记功能，快速对图进行箭头，打码，复制，方块，涂鸦，保存等，免去了装第三方软件或者跳转程序的繁琐，14-17可用，改屏幕图标在插件目录下Library/MobileSubstrate/DynamicLibraries/biaoji/pencil.tip.crop.circle.png，设置里图标名为Settings-biaoji.png
+Author: 来了老弟 X: h_h_x_t
+Icon: https://s1.imagehub.cc/images/2026/08/13/47b74e931dc8066945ca4aaa9677a91e.png
+Name: 截图标记-roothide
+
 Package: cn.llld.cocoatop
 Version: 0.0.1-2
 Architecture: iphoneos-arm64e
