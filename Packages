@@ -488,24 +488,6 @@ Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
 Name: Vitreux
 Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
 
-Package: com.muirey03.cr4shed
-Version: 4.3.2
-Architecture: iphoneos-arm64e
-Maintainer: Muirey03
-Installed-Size: 2488
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
-Filename: ./debs/com.muirey03.cr4shed_4.3.2_iphoneos-arm64e.deb
-Size: 641726
-MD5sum: a95679d62dbc319572b29c5712bb48d9
-SHA1: e90ff187fe2365b1525f0c37f82001418eabb7f2
-SHA256: 5833ea41c6a09c22e9e662f3ebf22123ef3ba2e945445996e0900ccfbec74396
-Section: Tweaks
-Description: 系统崩溃报告器
-Author: Muirey03
-Icon: https://www.susubaby.top/images/cr4shed.png
-Name: Cr4shed
-
 Package: com.opa334.crane
 Version: 1.3.17-2
 Architecture: iphoneos-arm64e
@@ -1307,13 +1289,14 @@ Maintainer: daniel
 Installed-Size: 156
 Depends: mobilesubstrate
 Filename: ./debs/daniel.batman_0.0.2-1+debug_iphoneos-arm64e.deb
-Size: 5014
-MD5sum: dc8fb4da28ad6b890ccf4adb1a155d01
-SHA1: 362e15bbe4576018f0f11d51f1697529a110ec88
-SHA256: 0c79c609dc2d8f2a015ed743d4ebf2130ae34552eda9ab70f872762e19a5930d
+Size: 9802
+MD5sum: 2d68816c9bf309a2083d041c3b9432aa
+SHA1: ae7ca25d2d1879b03e11ec3fcecc6df605cec987
+SHA256: 54c4457a4765c25d104fbdd2f5cf3069b0793f6a27228e26edd33c59175ca83b
 Section: Tweaks
-Description: Display much more battery information
+Description: Display much more battery information 设置中显示更多电池信息
 Author: daniel
+Icon: https://s1.imagehub.cc/images/2026/08/13/4577c21ea561baf2b3b4b48ee251d6d4.png
 Name: Batman
 
 Package: jp.akusio.backgrounderaction15s
