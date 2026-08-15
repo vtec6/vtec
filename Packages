@@ -825,13 +825,14 @@ Installed-Size: 10136
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/com.squidforce.squidextender_3.7.4_iphoneos-arm64e.deb
-Size: 4546016
-MD5sum: cde65a52eae425e1159f67f6d3cfbed4
-SHA1: 48ddb54bd71ced0f1abc6c8f2986b3defd36b9b1
-SHA256: 3cef3774864e01fa13f0af627237f5472eb5f348c800d81885f68f8062abdb04
+Size: 4546108
+MD5sum: 286ff5c8afb5c67b1f67b6fa8d0802b3
+SHA1: 9228bed347b089da0320a85c2d8b62dd3df62957
+SHA256: 911d58c84fe8960fc4c0ce366c5bca552d6f49f6e01e55be2a5af1fb6b401a23
 Section: Tweaks
-Description: Extend your keyboard to be more POWERFULL!
+Description: Extend your keyboard to be more POWERFULL! 扩展你的键盘，使其更强大！
 Author: SquidForce
+Icon: https://s1.imagehub.cc/images/2026/08/15/a3af5f849305a89cb59265e7c4fd6052.png
 Name: SquidExtender
 
 Package: com.susu.collection
