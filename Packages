@@ -1381,6 +1381,29 @@ Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
 Package: ws.hbang.newterm3
+Version: 3.0~beta1-1042+debug
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 31496
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/ws.hbang.newterm3_3.0~beta1-1042+debug_iphoneos-arm64e.deb
+Size: 5628624
+MD5sum: e0ee6d05fe3ad66838fceed1eaac9a70
+SHA1: 13c581254377c23348e86dc9d8076e5b08028ef3
+SHA256: 606e9da262c8eff26e6467088c82dbce02cb9a4302d1074a5b1f2d0ccefe3300
+Section: Utilities
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.newterm3
 Version: 3.0~beta1-670+debug
 Architecture: iphoneos-arm64e
 Maintainer: HASHBANG Productions <support@hbang.ws>
