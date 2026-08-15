@@ -1307,14 +1307,14 @@ Maintainer: daniel
 Installed-Size: 156
 Depends: mobilesubstrate
 Filename: ./debs/daniel.batman_0.0.2-1+debug_iphoneos-arm64e.deb
-Size: 9802
-MD5sum: 2d68816c9bf309a2083d041c3b9432aa
-SHA1: ae7ca25d2d1879b03e11ec3fcecc6df605cec987
-SHA256: 54c4457a4765c25d104fbdd2f5cf3069b0793f6a27228e26edd33c59175ca83b
-Section: Tweaks
-Description: Display much more battery information 设置中显示更多电池信息
+Size: 5016
+MD5sum: cf9c7842bfe713a7aca7ba40718c981d
+SHA1: ab85f48f685f3defbf40f76f1c9bab9c285fd885
+SHA256: ddf103c8cca04a8ae171cf95b9c754f52383ed22def896c765234a3aba59a1f1
+Section: Utilities
+Description: Display much more battery information 设置项中电池显示更多关于电池信息
 Author: daniel
-Icon: https://s1.imagehub.cc/images/2026/08/13/4577c21ea561baf2b3b4b48ee251d6d4.png
+Icon: https://s1.imagehub.cc/images/2026/08/15/c0c219aa0e7997b505a5c62bdb49c4ed.png
 Name: Batman
 
 Package: jp.akusio.backgrounderaction15s
