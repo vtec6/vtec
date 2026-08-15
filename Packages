@@ -808,13 +808,14 @@ Installed-Size: 6304
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./debs/com.squidforce.copyvault_1.9.0_iphoneos-arm64e.deb
-Size: 1737768
-MD5sum: 33dc237063daaabde12999b14a08e1d5
-SHA1: ed36c3b8c060d4d1285d141b4ecfd64c144bd501
-SHA256: 7ee503479653f9ef7327593d31293c662988b58c6f53b0161162add33e53de21
+Size: 1735188
+MD5sum: e9176da2f4fa0b7353a6b42eb0161ffa
+SHA1: f45dc375d6fe4e5295301a52acdc15a1a3030df7
+SHA256: 9d5986ee7bbf6b13cdd7ed52c91fd8c33cbee6720d85c38c50e5b780f7b4122b
 Section: Tweaks
-Description: Your Copy Vault, Your Pasteboard
+Description: Your Copy Vault, Your Pasteboard 复制宝库，强大的剪贴板
 Author: SquidForce
+Icon: https://s1.imagehub.cc/images/2026/08/15/04e03a5c8d2d5017319ff2085ca1c6ef.png
 Name: CopyVault
 
 Package: com.squidforce.squidextender
