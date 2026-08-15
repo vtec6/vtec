@@ -360,15 +360,15 @@ Maintainer: doimty
 Installed-Size: 236
 Depends: mobilesubstrate
 Filename: ./debs/com.doimty.promotion_1.0.8_iphoneos-arm64e.deb
-Size: 26156
-MD5sum: 75ce2669ba792786c2cc0ca14c63d0cb
-SHA1: cffaf67fa9795b075fcb6e94eb80d52334569721
-SHA256: 34ada9947b84ebf43cc2360454d9f0e28219443e649528e77826f0dec835956b
-Section: Utilities
-Description: Force global 120Hz ProMotion, bypass the 80Hz system cap. iPhone 13 Pro and above only.强制120Hz iPhone13pro机型以上食用 无设置项安装即生效
+Size: 26112
+MD5sum: 1c66934dc7c602cd06863034e397e41a
+SHA1: b220aed865fbc41bb1fd71450c63ed553c27b423
+SHA256: 18f1a25cda5a0aeb4c98128ce9c322d3deab254c45102a4dad7cf19618773323
+Section: Tweaks
+Description: Force global 120Hz ProMotion, bypass the 80Hz system cap. iPhone 13 Pro and above only. 强制120Hz 无设置项安装即生效
 Tag: supports::roothide
 Author: doimty
-Icon: https://s1.imagehub.cc/images/2026/08/13/b41c8615f37beb648e9f6e3510d957ca.png
+Icon: https://s1.imagehub.cc/images/2026/08/15/2ad7351733cc088b8be05773d0965b29.png
 Name: ProMotion 120Hz
 
 Package: com.exile90.icleanerpro
