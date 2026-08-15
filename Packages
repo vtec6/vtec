@@ -515,13 +515,14 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/com.opa334.crane_1.3.17-2_iphoneos-arm64e.deb
-Size: 1560716
-MD5sum: f521496030ff64c4dde1efb80140f0d1
-SHA1: 01aa4fbabbfd0e230fd64008f4b5983ad2af412d
-SHA256: eb06e51b2eee14b4f3b7fe5786a28f497332bd97c55673098a46b392091ab938
+Size: 612456
+MD5sum: deeadc15cd5b01223a7ebd2c7e3ce7bd
+SHA1: 6fb299eb1a845a43badb6ff05ebd9d2be382027d
+SHA256: 41f0d7312d533ba16ec4f19220980097b5af71116f9f53650785a6f897ca50dd
 Section: Tweaks
 Description: Multiple containers for your applications!
 Author: opa334
+Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Name: Crane
 
 Package: com.qiop1379.swipeextenderx
