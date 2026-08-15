@@ -455,10 +455,10 @@ Installed-Size: 187
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: ./debs/com.kingpuffdaddi.control-center.ccvpn_1.0.6_iphoneos-arm64e.deb
-Size: 40544
-MD5sum: 66170a7fd9ffb77e02bb9c5cb8529677
-SHA1: 8b6b2427ba78f676a7a0424a95c1d0b15b1e651e
-SHA256: 909c0a2e5e98f7c9ea2f900be1ea754ffabc706f69fe0354c0dace44b8e3b353
+Size: 40548
+MD5sum: 81faa6b961401a3465e0ef45b1cac13b
+SHA1: 65a0b83e730e0b3ccce9756afd6d99edb45dc303
+SHA256: c16c0716b1e07af5c276cfff9d55b7f201e299ef8ca8b4bf1ca3c3e72be525f0
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Description: A Control Center Module to connect/disconnect VPN
@@ -466,7 +466,7 @@ Tag: purpose::extension
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Dev: kingpuffdaddi
-Icon: https://s1.imagehub.cc/images/2026/08/13/a04684f71569b035c6be6762eea38dc8.jpeg
+Icon: https://s1.imagehub.cc/images/2026/08/15/a03f8933ce080e3fa55ec5ec2170bc37.png
 Name: CCVPN
 
 Package: com.mtac.vitreux
