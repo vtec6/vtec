@@ -496,14 +496,14 @@ Installed-Size: 2488
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
 Filename: ./debs/com.muirey03.cr4shed_4.3.2_iphoneos-arm64e.deb
-Size: 246156
-MD5sum: 7088a3952e71d781203a1a106668eb09
-SHA1: 160fcac3a787ffa17b42074bdb8eca1f386a9590
-SHA256: cd835551a8add00b68643f7a7a4b849afe7067adb908906899889fb2f4c784a6
+Size: 246040
+MD5sum: 2e9987649545c6be9f757993a7897e45
+SHA1: f49677da3a6ce5a416c9809a0d0596e71e941f9f
+SHA256: 298c342cd38ffe14b188253b6470ec38bfeb37e6d60d296444a9fac8020f5536
 Section: Utilities
 Description: 系统崩溃报告器
 Author: Muirey03
-Icon: https://s1.imagehub.cc/images/2026/08/13/4577c21ea561baf2b3b4b48ee251d6d4.png
+Icon: https://s1.imagehub.cc/images/2026/08/13/021ec60b77f827c4fd11e58741b1ffbf.png
 Name: Cr4shed
 
 Package: com.opa334.crane
