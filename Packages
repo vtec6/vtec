@@ -977,6 +977,23 @@ Author: Huayuarc
 Icon: https://s1.imagehub.cc/images/2026/08/13/ed526183f375d6d77cedca7acc06767e.png
 Name: 卡兄卡弟 Hooks屏蔽
 
+Package: com.vtec.quickprefs
+Version: 1.3.3-1
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: ./debs/com.vtec.quickprefs_1.3.3-1_iphoneos-arm64e.deb
+Size: 513496
+MD5sum: 5a957b01102dac38dc4b688973618641
+SHA1: 48389526d19b311716fd5313afdf48be31e55e57
+SHA256: aea959774fda90234908967415d26533c5fac87e9ffb15cac9bbad84c61cdcf5
+Section: Utilities
+Description: 设置里的项目抓取，已汉化，上架备份。
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Name: QuickPrefs
+
 Package: com.vtec.siriplus
 Version: 1.3
 Architecture: iphoneos-arm64e
