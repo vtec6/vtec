@@ -1005,11 +1005,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.vtec.siriplus_1.3_iphoneos-arm64e.deb
 Size: 265564
-MD5sum: 099b1ad9ba7f17d368436400ad703c5b
-SHA1: 581fe72371f2b2306ddba460f53b37452a280ee5
-SHA256: 78eab5ce1a29d920b9790cd5f891a96e1f01c8ac9db1679ce9b9d8a22efe1af2
+MD5sum: 2460db514e70bd911141a429cf3b5c1c
+SHA1: 6a4ea17cba5b636b0eb40c398348ade9652f6b4a
+SHA256: 960db3fb761317478b5579f3f6b2b049fe5ce47ad11e4001aa7f9bc6bb722dbe
 Section: Tweaks
-Description: Replace Siri with ChatGPT/Gemini  SiriPlus 让能你的Siri变成ChatGPT 需要自行购买API
+Description: Replace Siri with ChatGPT/Gemini  SiriPlus 能让你的Siri变成ChatGPT 需要自行购买API
 Author: uckermark
 Icon: https://s1.imagehub.cc/images/2026/08/16/57fd8bc379b17e23c1cd6b6d6aed8a9e.png
 Name: SiriPlus
