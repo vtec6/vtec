@@ -580,25 +580,6 @@ Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 Name: Immortalizer
 
-Package: com.sini.siriplus
-Version: 1.3
-Architecture: iphoneos-arm64e
-Maintainer: uckermark
-Installed-Size: 1744
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/SiriPlus-1.3-arm64e.deb
-Size: 265252
-MD5sum: 7b8e801b594b3ababefffee38bdb2b79
-SHA1: 000fdcd5207ea409b837da4b6e086ed27df7cefd
-SHA256: 99478aaf8376223225b1cec7a485552f24e0a31b497c9bdd636dcdffac36584c
-Section: Tweaks
-Description: SiriPlus-rootless
-Author: uckermark
-Icon: https://sini921.github.io/repo/sileodepiction/icon/siriplus.png
-Name: SiriPlus
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/siriplus/js.json
-
 Package: com.spark.snowboard
 Version: 1.5.37-Beta4-rootless
 Architecture: iphoneos-arm64e
