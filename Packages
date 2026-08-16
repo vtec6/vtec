@@ -1035,6 +1035,24 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
 Name: QuickPrefs
 
+Package: com.vtec.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.vtec.recordanywhere_1.1.0_iphoneos-arm64e.deb
+Size: 5672
+MD5sum: 3470ca65d34ca96b5ab6c0db8adad459
+SHA1: f21926608c55989c66e27e9312c579c3f778c692
+SHA256: 00bf043b434e2113477717d0fdb2c70be29cd7985eca4fb0fbde0637086d46d3
+Section: Tweaks
+Description: 手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc
+Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
+Name: RecordAnywhere
+
 Package: com.vtec.siriplus
 Version: 1.3
 Architecture: iphoneos-arm64e
