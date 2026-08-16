@@ -996,6 +996,24 @@ Author: Huayuarc
 Icon: https://s1.imagehub.cc/images/2026/08/13/ed526183f375d6d77cedca7acc06767e.png
 Name: 卡兄卡弟 Hooks屏蔽
 
+Package: com.vtec.siriplus
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: uckermark
+Installed-Size: 1744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.vtec.siriplus_1.3_iphoneos-arm64e.deb
+Size: 265564
+MD5sum: 099b1ad9ba7f17d368436400ad703c5b
+SHA1: 581fe72371f2b2306ddba460f53b37452a280ee5
+SHA256: 78eab5ce1a29d920b9790cd5f891a96e1f01c8ac9db1679ce9b9d8a22efe1af2
+Section: Tweaks
+Description: Replace Siri with ChatGPT/Gemini  SiriPlus 让能你的Siri变成ChatGPT 需要自行购买API
+Author: uckermark
+Icon: https://s1.imagehub.cc/images/2026/08/16/57fd8bc379b17e23c1cd6b6d6aed8a9e.png
+Name: SiriPlus
+
 Package: com.vtec.storeswitcher2
 Version: 1.0.7
 Architecture: iphoneos-arm64e
