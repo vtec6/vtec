@@ -977,6 +977,27 @@ Author: Huayuarc
 Icon: https://s1.imagehub.cc/images/2026/08/13/ed526183f375d6d77cedca7acc06767e.png
 Name: 卡兄卡弟 Hooks屏蔽
 
+Package: com.vtec.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: vtec
+Installed-Size: 1084
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: ./debs/com.vtec.onesettings_2.2_iphoneos-arm64e.deb
+Size: 216948
+MD5sum: 85cbd431fd92dc4350f371d283ad7328
+SHA1: 617456ae31daadf693753d7b81c6b5e7da2900de
+SHA256: 6a38b60fd146c9df84d4fad4f67c900609edcdaf9d874c920e5ac1981e756f26
+Section: Tweaks
+Description: 插件归类，完全汉化，备份自用。
+Tag: cydia::commercial
+Author: Nightwind
+Icon: https://s1.imagehub.cc/images/2026/08/16/28918715300fbee739116f1623f0ab89.png
+Name: OneSettings
+Sponsor: vtec
+
 Package: com.vtec.quickprefs
 Version: 1.3.3-1
 Architecture: iphoneos-arm64e
