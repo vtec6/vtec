@@ -1051,6 +1051,26 @@ Author: 苏苏
 Icon: https://s1.imagehub.cc/images/2026/08/13/d5ed7f26f4d3bcd704fe7e1160ac694e.png
 Name: StoreSwitcher2
 
+Package: com.vtec.swipeextenderx
+Version: 1.6.1~2
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.vtec.swipeextenderx_1.6.1~2_iphoneos-arm64e.deb
+Size: 100076
+MD5sum: 497c2c98d33f35915dda746a91c9ee16
+SHA1: ffce082239e9990eaf4b78fe0d200be2b896798f
+SHA256: dc911aca043b4e7bfb6a1ffddf503f55dbc52ba759b17004b7c036da5f0d2db6
+Section: Tweaks
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS! 用这款传奇 SwipeExpander 插件的完全重制版重新定义你的键盘，专为现代 iOS 设计！内置多种个人预设，完全汉化，打包自用备份！
+Tag: cydia::commercial
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://chariz.com/get/swipeextenderx
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
+
 Package: com.vtec.switchtheme
 Version: 1.0.0
 Architecture: iphoneos-arm64e
