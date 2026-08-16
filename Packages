@@ -1053,6 +1053,24 @@ Author: Muirey03 & lclrc
 Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
 Name: RecordAnywhere
 
+Package: com.vtec.recordpause
+Version: 2.0.7
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: ./debs/com.vtec.recordpause_2.0.7_iphoneos-arm64e.deb
+Size: 13064
+MD5sum: eb2b7859a766e5c8e83605a65807ed17
+SHA1: cb4afeb6245d9e6132eafbf39267820cf94d4f02
+SHA256: 70efdd54e541e06f7fd09868d041faa477ff0e6caf8fe5141723c2560a5f1eae
+Section: Tweaks
+Description: 录制视频时，可以手动暂停/恢复。
+Author: PoomSmart
+Icon: https://s1.imagehub.cc/images/2026/08/16/78f83fe1178069e8325efacb6a212e4e.png
+Name: RecordPause
+
 Package: com.vtec.siriplus
 Version: 1.3
 Architecture: iphoneos-arm64e
@@ -1271,24 +1289,6 @@ Author: Nightwind
 Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
 Name: OneSettings
 Sponsor: wkk
-
-Package: com.wkk.recordanywhere
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Maintainer: Muirey03 & lclrc
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.wkk.recordanywhere_1.1.0_iphoneos-arm64e.deb
-Size: 6224
-MD5sum: 4b7c8a98fc5c9b85af815adac1e5cd8f
-SHA1: 334834f69cbb3b7d67bb6cdb382b2312eeed7046
-SHA256: b0e45b987178843efbb02ca6cf639930e2431a923dc35080db870a552baca688
-Section: Tweaks
-Description: 使手机在锁屏状态也可以继续录屏。
-Author: Muirey03 & lclrc
-Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
-Name: RecordAnywhere
 
 Package: com.wkk.smoothcursorios13
 Version: 0.0.1
