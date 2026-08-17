@@ -1060,14 +1060,14 @@ Maintainer: AnthoPak <anthopakdev@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
 Filename: ./debs/com.vtec.quickprefs_1.3.3-1_iphoneos-arm64e.deb
-Size: 513496
-MD5sum: 5a957b01102dac38dc4b688973618641
-SHA1: 48389526d19b311716fd5313afdf48be31e55e57
-SHA256: aea959774fda90234908967415d26533c5fac87e9ffb15cac9bbad84c61cdcf5
+Size: 513488
+MD5sum: 4748fc3c005bd4b3f639c8fab3bab343
+SHA1: b42f4010ea05276e728cc677fd491ef201a27da1
+SHA256: c432229c2846f8d279aa9356861517c093fa75ce21525f5d5ac0d706bed3fe0c
 Section: Utilities
 Description: 设置里的项目抓取，已汉化，上架备份。
 Author: AnthoPak <anthopakdev@gmail.com>
-Icon: https://s1.imagehub.cc/images/2025/01/24/137ad8ab011c468fac23f82c8eb7c050.png
+Icon: https://s1.imagehub.cc/images/2026/08/16/2b93beba3ba39b45af8b2d8577038d1f.png
 Name: QuickPrefs
 
 Package: com.vtec.recordanywhere
