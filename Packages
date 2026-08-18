@@ -1001,23 +1001,6 @@ Author: opa334 <opa334@protonmail.com>
 Icon: https://s1.imagehub.cc/images/2026/08/12/04e8a7f5f6e1b218dd7c158f9aef9603.png
 Name: Choicy(RootHide)
 
-Package: com.vtec.kaxkad
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: Huayuarc
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/com.vtec.kaxkad_0.0.1_iphoneos-arm64e.deb
-Size: 4040
-MD5sum: e37c40b07c7d1ec47b57b4344f268ac7
-SHA1: 41efd2df1c02a2b1142564c8c68f7d3831077ad1
-SHA256: df7ce07f1ee5c1daf7545b8a76a70acf62beef2330456086c35ef276facf5fb5
-Section: Tweaks
-Description: 去除启动广告，去除强制升级弹窗，自行测试。
-Author: Huayuarc
-Icon: https://s1.imagehub.cc/images/2026/08/13/ed526183f375d6d77cedca7acc06767e.png
-Name: 卡兄卡弟 Hooks屏蔽
-
 Package: com.vtec.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64e
@@ -1147,42 +1130,6 @@ Author: MiRO <tweaks_support@miro92.com>
 Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
-
-Package: com.vtec.switchtheme
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: baiy（qq：961666883））
-Installed-Size: 272
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.vtec.switchtheme_1.0.0_iphoneos-arm64e.deb
-Size: 38452
-MD5sum: cd31c3745895924128c548d7deafa31d
-SHA1: 1480c37f12c57e6cedc7e429af1dbffe840ddfc3
-SHA256: a3c371b510961290f95cf93e7bee3339c10cf5e0ad8b2adac091ae73266c7988
-Section: Tweaks
-Description: 一款款全新的开关主题，通过模拟太阳升起与落下的动画效果，带来极致流畅且视觉惊艳的替代体验。
-Author: 白衣
-Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
-Name: 日月开关
-
-Package: com.vtec.switchtheme3
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: baiy
-Installed-Size: 5520
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.vtec.switchtheme3_1.0.0_iphoneos-arm64e.deb
-Size: 49008
-MD5sum: 188bcb71ae33ff3095feccc2cf235558
-SHA1: b8aaef763b3b6fb007634866320dd5ecab074a5e
-SHA256: c3a20b9a99d236145422dd2c4246c0f18d795a1dd153ba938bc128e8da344e7b
-Section: Tweaks
-Description: 一款全新的Line-iOS动态开关，搭配Line微信主题绝配，丝滑的动画体验，极致的简约。
-Author: 白衣
-Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
-Name: SwitchTheme-Line开关
 
 Package: com.vtec.wcplugins
 Version: 0.1-6
