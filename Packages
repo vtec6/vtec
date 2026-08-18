@@ -1390,24 +1390,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15
 Name: 真后台 CCSupport
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
 
-Package: llswitch
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: Simon
-Installed-Size: 204
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/llswitch_1.0_iphoneos-arm64e.deb
-Size: 21690
-MD5sum: cf5dfdb777a8747dfe79a0d663209789
-SHA1: 2fe406ae249fc1b86ed60b0cc1028401ccc03d66
-SHA256: 60d5dd2afd915b64d956d0864af265c914a290ba92f5f60c92f79dbcabbc0135
-Section: Tweaks
-Description: 把开关变成无聊的表情  开关不再卑微！
-Author: Simon
-Icon: https://s1.imagehub.cc/images/2026/08/13/1417e0348cee5c944be590bf9086a7b9.png
-Name: 笑脸开关
-
 Package: ru.domo.cocoatop64
 Version: 2.2.4
 Architecture: iphoneos-arm64e
