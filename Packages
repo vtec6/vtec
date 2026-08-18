@@ -1275,23 +1275,6 @@ Depiction: https://havoc.app/package/carbridge
 Icon: https://repo.cypwn.xyz/packages/CarBridge-Rootless/icon.png
 Name: CarBridge
 
-Package: com.wkk.liquidglassswitchX
-Version: 1.0-2
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 556
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wkk.liquidglassswitchX_1.0-2_iphoneos-arm64e.deb
-Size: 72700
-MD5sum: 51ab612dfdf2903e6cf1498a2e7d5de2
-SHA1: 6ec90e279a3bb956a96e8891061d266092bcfc6e
-SHA256: 446359642405560420828225197a145251677a600625fa6bf2860762898fd77c
-Section: Tweaks
-Description: 全局液态玻璃开关样式。
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: 液态玻璃Switch
-
 Package: com.wkk.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64e
@@ -1311,24 +1294,6 @@ Author: Nightwind
 Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
 Name: OneSettings
 Sponsor: wkk
-
-Package: com.yourepo.lly.dismissalert
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 540
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.yourepo.lly.dismissalert_1.0.0_iphoneos-arm.deb
-Size: 89434
-MD5sum: bf3a541f8e88c15eba8f6ae71e73e164
-SHA1: e8d311e981e260f621d933ac9398c184626cef9f
-SHA256: 75278c4686c5b7246d385d4d8a1d035e3835aaf1ddd4abfa140b1b29c635e27d
-Section: Tweaks
-Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
-Name: DismissAlert【屏蔽弹窗】
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
 
 Package: com.zqbb.savephotos
 Version: 1.1
