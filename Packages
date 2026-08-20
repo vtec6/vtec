@@ -15,41 +15,6 @@ Author: ARX8x 来了老弟
 Icon: https://s1.imagehub.cc/images/2026/08/13/694bf1d566a79c88d42760fe1a44bad4.png
 Name: System Info 系统信息
 
-Package: cn.llld.biaoji
-Version: 1.3
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 X: h_h_x_t
-Installed-Size: 128
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/cn.llld.biaoji_1.3_iphoneos-arm64e.deb
-Size: 36286
-MD5sum: 49353a23caa48773276abba642655350
-SHA1: e7ced2dce3dd7ac96e3d6bd263b31903d9e72f5b
-SHA256: cd1fac38d5765a4c608291b858a91d6c8ac5540bac4185bc4b9f80200e9ed53b
-Section: Utilities
-Description: 给Snapper 或stayShot插件增加标记功能，快速对图进行箭头，打码，复制，方块，涂鸦，保存等，免去了装第三方软件或者跳转程序的繁琐，14-17可用，改屏幕图标在插件目录下/var/jb/Library/MobileSubstrate/DynamicLibraries/biaoji/pencil.tip.crop.circle.png，设置里图标名为Settings-biaoji.png
-Author: 来了老弟 X: h_h_x_t
-Icon: https://s1.imagehub.cc/images/2026/08/13/47b74e931dc8066945ca4aaa9677a91e.png
-Name: 截图标记
-
-Package: cn.llld.biaoji
-Version: 1.5
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟 X: h_h_x_t
-Installed-Size: 180
-Depends: mobilesubstrate
-Filename: ./debs/cn.llld.biaoji_1.5_iphoneos-arm64e.deb
-Size: 61372
-MD5sum: 47ae0a3590e6702d9c5c9653a9377260
-SHA1: 155462c3459e3eea204e32201fd0adf67bc2151c
-SHA256: 8ae9bda17cfc0879ac1b02841f113b3ec066490fc1ff6f959a0ec091f799f608
-Section: Utilities
-Description: 给Snapper 或stayShot插件增加标记功能，快速对图进行箭头，打码，复制，方块，涂鸦，保存等，免去了装第三方软件或者跳转程序的繁琐，14-17可用，改屏幕图标在插件目录下Library/MobileSubstrate/DynamicLibraries/biaoji/pencil.tip.crop.circle.png，设置里图标名为Settings-biaoji.png
-Author: 来了老弟 X: h_h_x_t
-Icon: https://s1.imagehub.cc/images/2026/08/13/47b74e931dc8066945ca4aaa9677a91e.png
-Name: 截图标记-roothide
-
 Package: cn.llld.cocoatop
 Version: 0.0.1-2
 Architecture: iphoneos-arm64e
