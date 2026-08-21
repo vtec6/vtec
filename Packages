@@ -1119,6 +1119,25 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.vtec.tweaksettings
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.vtec.tweaksettings_1.0.8_iphoneos-arm64e.deb
+Size: 389216
+MD5sum: 2d0711eca088c016b7fda64fc7c407db
+SHA1: b754f8400ed4945a952c019b5fe7ecc32042f472
+SHA256: ecd6cbe2d02b69bb6a7d86457b8fd52715f77889e3fd21594229582f69339d95
+Section: Applications
+Priority: optional
+Description: 安装后在桌面，打开进入插件列表
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/tweaksett.png
+Name: TweakSettings
+
 Package: com.vtec.wcplugins
 Version: 0.1-6
 Architecture: iphoneos-arm64e
